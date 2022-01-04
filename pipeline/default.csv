@@ -1,0 +1,6 @@
+pipeline,resource,field,default-field,entry-date,start-date,end-date
+brownfield-land,,NetDwellingsRangeFrom,MinNetDwellings,,,
+brownfield-land,,NetDwellingsRangeFrom,NetDwellingsRangeTo,,,
+brownfield-land,,NetDwellingsRangeTo,NetDwellingsRangeFrom,,,
+brownfield-land,,NetDwellingsRangeTo,MinNetDwellings,,,
+brownfield-land,,LastUpdatedDate,FirstAddedDate,,,

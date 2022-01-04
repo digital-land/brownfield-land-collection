@@ -1,0 +1,54 @@
+OrganisationURI,OrganisationLabel,SiteReference,PreviouslyPartOf,SiteNameAddress,SitepCloaonrUdiRnLateReferenceSysGteeomX,GeoY,HectarOeswnershipStatuDseliverable,PlanningStatus,PermissionType,PermissionDatePlanningHistory,ProposedForPIP,MinNetDwellings,DevelopmentDescription,NonHousingDevelopment,Part2,"Net
+DwellingsRange
+From",NetDwellingsRangeTo,HazardousSubstances,SiteInformation,Notes,FirstAddedDate,LastUpdatedDate
+http://opendatacommunities.org/id/district-council/south-hams,South Hams District Council,SH_34_10_16,,"""Former Glendinning Site, Torhil, Ipplepen Road, Marldon, TQ3
+1SE""",https://wwwO.sSoGuBt3h6hams.gov.2u8k6/a4r8ti8cle/429613/4B5ro2wnfi0e.l6d-8L annodt -oRewgniestde rbyyeas public auptheonrdiitnyg decision,,,,"full planning
+permission",28/03/2019,,"10 ""Application for 10no. new dwellings""",,"""and retention of existing office building""",,,,,,3951/17/FUL,22/12/2017,19/12/2019
+,,,,,,,,,,,,,,"""full planning permission for part demolition of",,,,,,,,
+,,,,,,,,,,,,,,existing buildings and removal of existing marina,,,,,,,,
+,,,,,,,,,,,,,,pontoons and buoys; redevelopment comprising a,,,,,,,,
+,,,,,,,,,,,,,,new marina of 232 berths with associated,,,,,,,,
+,,,,,,,,,,,,,,"infrastructure including a new quay wall, public",,,,,,,,
+,,,,,,,,,,,,,,slipway and passenger ferry pontoon; boatyard with,,,,,,,,
+,,,,,,,,,,,,,,"associated infrastructure,",,,,,,,,
+,,,,,,,,,,,,,,retail/cafe/commercial/education and training units,,,,,,,,
+,,,,,,,,,,,,,,"(3,233 sq m Use Classes A1/A3/B1/B2/B8/D1),",,,,,,,,
+,,,,,,,,,,,,"""Hybrid application. Full planning for 39 residential units (Use",,"drystack boat storage facility, decked car park, water",,,,,,,,
+,,,,,,,,,,,,"Class C3)"" and outline permission for a further 91 residential",,"treatment works, electricity substations; a hotel",,,,,,,,
+http://opendatacommunities.org/id/district-council/south-hams,South Hams District Council,SH_30_05_16,,"""Noss Marina, Bridge Road, Kingswear, Dartmouth, TQ6 0EA""",https://wwwO.sSoGuBt3h6hams.gov.2u8k8/a0r5ti4cle/429512/8B3ro9wnfi8e.l9d-3L annodt -oRewgniestde rbyyeas public auptheonrdiitnyg decision,,,,other,10/08/2018,,130 units.,,"(4,650 sq m), public square, car parking and access""",,,,,,2161/17/OPA,22/12/2017,19/12/2019
+http://opendatacommunities.org/id/district-council/south-hams,South Hams District Council,SH_14_27_16,,"""Foxhole Complex and Shops, Dartington, Totnes, TQ9 6QT""",https://wwwO.sSoGuBt3h6hams.gov.2u7k8/a9r4ti8cle/429612/3B0ro8wnfi5e.l8d-7L annodt -oRewgniestde rbyyeas public aunthoto rpiteyrmissioned,,,,,,,"120 ""Mixed use - including homes""",,"""retention of retail and commercial employment uses
+(use class B1)""",,,,,,,22/12/2017,19/12/2019
+http://opendatacommunities.org/id/district-council/south-hams,South Hams District Council,SH_49_07_13,,"""Marquis Motorhomes Site, Lee Mill""",https://wwwO.sSoGuBt3h6hams.gov.2u5k9/a5r5ti2cle/429515/6B4ro6wnfi0e.l3d-4L annodt -oRewgniestde rbyyeas public aunthoto rpiteyrmissioned,,,,,,,"30 ""Residential development""",,,,,,,,,22/12/2017,19/12/2019
+http://opendatacommunities.org/id/district-council/south-hams,South Hams District Council,SH_34_09_14,,"""RMC Quarry Site, Marldon""",https://wwwO.sSoGuBt3h6hams.gov.2u8k6/a2r4ti3cle/429613/1B9ro5wnfi0e.l5d-2L annodt -oRewgniestde rbyyeas public auptherormitisysioned,,,,"outline planning
+permission",27/09/2017,,"5 ""Construction of 5 dwellings""",,,,,,,,34/1890/15/O,22/12/2017,19/12/2019
+,,,,,,,,,,,,"1483/17/POD ""Prior approval notification for proposed change of",,,,,,,,,,
+,,,,,,,,,,,,use of a building from Office Use (Class B1(a)) to residential (C3),,,,,,,,,,
+,,,,,,,,,,,,"comprising 26 no. flats"" . 3895/1/POD - Notification for prior",,,,,,,,,,
+,,,,,,,,,,,,approval for proposed change of use of buildingfrom Office use,,,,,,,,,,
+http://opendatacommunities.org/id/district-council/south-hams,South Hams District Council,1483/17/POD,,"""Parkers Barn, Parkers Way, Totnes, Devon, TQ9 5UF""",https://wwwO.sSoGuBt3h6hams.gov.2u8k0/a9r0ti6cle/429519/9B1ro6wnfi0e.l4d-6L annodt -oRewgniestde rbyyeas public auptherormitisysioned,,,,other,27/07/2017,,26 (Class B1(a)) to 30 no. flats (Class C3).,,,,,,,,1483/17/POD & 38292/51/127//2P01O7D,,19/12/2019
+http://opendatacommunities.org/id/district-council/south-hams,South Hams District Council,37/2548/14/O,,"""SX5670, 4944 West of Collaton Park, Newton Ferrers, Devon, PL8
+2NE""",https://wwwO.sSoGuBt3h6hams.gov.2u5k6/a7r9ti7cle/429419/5B1ro3wnfi3e.l1d-4L annodt -oRewgniestde rbyyeas public auptherormitisysioned,,,,"outline planning
+permission",16/09/2016,,"""Outline application (with some matters reserved) for mixed use
+70 development of 70 dwellings""",,"""allotments, community facility, recreation and
+employment land""",,,,,,37/2548/14/O,22/12/2017,19/12/2019
+http://opendatacommunities.org/id/district-council/south-hams,South Hams District Council,58/2441/15/F,,"""Fort Bovisand, Bovisand, Bovisand, Devon, PL9 0AB""",https://wwwO.sSoGuBt3h6hams.gov.2u4k8/a8r2ti7cle/429510/7B2ro2wnfi3e.l0d-5L annodt -oRewgniestde rbyyeas public auptherormitisysioned,,,,"full planning
+permission",23/03/2016,,"""Construction of new build residential development in place of
+former dive centre accommodation, conversion of upper fort and
+81 part of lower fort into residential units""",,"""provision of an Interpretation Centre,
+cafe/restaurant facility, relocation of MOD space and
+commercial uses, creation of a service compound, car
+parking and other associated works""",,,,,,"""58/2441/15/F, 282221//1127//2F0U1L7""",,19/12/2019
+http://opendatacommunities.org/id/district-council/south-hams,South Hams District Council,14/0142/15/F,,"""Brimhay Bungalows, Development Site At Sx 7863 6192 Forder
+Lane, Dartington, Devon, TQ9 6HT""",https://wwwO.sSoGuBt3h6hams.gov.2u7k8/a6r3ti3cle/429611/9B0ro9wnfi0e.l7d-5L annodt -oRewgniestde rbyyeas public auptherormitisysioned,,,,"full planning
+permission",20/10/2017,,"""Redevelopment of existing Brimhay Bungalows to provide 32
+new dwellings and associated highway. (12no. 1 bed apartments,
+32 12no. market houses and 8 flats)""",,,,,,,,14/0142/15/F,22/12/2017,19/12/2019
+http://opendatacommunities.org/id/district-council/south-hams,South Hams District Council,58/1014/15/F,,"""The Eddystone Inn, Heybrook Bay, Plymouth, PL9 0BN""",https://wwwO.sSoGuBt3h6hams.gov.2u4k9/a6r6ti1cle/429418/8B6ro8wnfi0e.l3d-7L annodt -oRewgniestde rbyyeas public auptherormitisysioned,,,,"full planning
+permission",12/11/2015,,"""Redevelopment of site to provide replacement public house and
+restaurant and 10no. holiday units with owners apartment.
+16 Construction of 6no. 2 bed apartments on associated land""",,,,,,,,58/1014/15/F,22/12/2017,19/12/2019
+http://opendatacommunities.org/id/district-council/south-hams,South Hams District Council,SH_14_26_16,,"""Higher Barton Farm, Dartington""",https://wwwO.sSoGuBt3h6hams.gov.2u7k9/a8r8ti3cle/429612/9B0ro9wnfi1e.l2d-8L annodt -oRewgniestde rbyyeas public aunthoto rpiteyrmissioned,,,,,,,"20 ""Mixed use - including homes""",,"""employment use class B1 and commercial uses""",,,,,,,22/12/2017,19/12/2019
+http://opendatacommunities.org/id/district-council/south-hams,South Hams District Council,SH_57_21_16,,"""Land adjacent to Siding Cross, Wrangaton""",https://wwwO.sSoGuBt3h6hams.gov.2u6k8/a1r2ti8cle/429517/5B6ro5wnfi1e.l3d-9L annodt -oRewgniestde rbyyeas public auptherormitisysioned,,,,"outline planning
+permission",14/08/2018,,"""Outline application with some matters reserved for construction
+36 of up to 36 dwellings (including affordable housing)""",,""" flexible shop/community space, and associated
+works including landscaping""",,,,,,1317/16/OPA,22/12/2017,19/12/2019

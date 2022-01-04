@@ -1,0 +1,1413 @@
+OrganisationURI
+
+OrganisationLabel
+
+Site Reference
+
+http://opendatacommunities.org/id/district-council/worcester
+
+Worcester City Council
+
+SWDP43/3
+
+PreviouslyPartOf
+
+Ribble Close & Gas Holder Site
+
+http://opendatacommunities.org/id/district-council/worcester
+
+Worcester City Council
+
+SWDP43/19
+
+Blackpole Road, Western Power Distribution Depot
+
+http://opendatacommunities.org/id/district-council/worcester
+
+Worcester City Council
+
+SWDP43/a
+
+73-77 Bromwich Road
+
+http://opendatacommunities.org/id/district-council/worcester
+
+Worcester City Council
+
+SWDP43/c
+
+Malvern Gate, Bromwich Road
+
+http://opendatacommunities.org/id/district-council/worcester
+
+Worcester City Council
+
+SWDP43/9
+
+Old Brewery Service Station, Barbourne Road
+
+http://opendatacommunities.org/id/district-council/worcester
+
+Worcester City Council
+
+SWDP43/f
+
+County Council Offices, Sherwood Lane
+
+http://opendatacommunities.org/id/district-council/worcester
+
+Worcester City Council
+
+SWDP43/g
+
+County Council Offices, Bilford Road
+
+http://opendatacommunities.org/id/district-council/worcester
+
+Worcester City Council
+
+SWDP43/h
+
+Laugherne Garage, Bransford Road
+
+http://opendatacommunities.org/id/district-council/worcester
+
+Worcester City Council
+
+SWDP43/m
+
+Former Club House, Tolladine Golf Course
+
+http://opendatacommunities.org/id/district-council/worcester
+
+Worcester City Council
+
+SWDP43/q
+
+79 St Johns
+
+http://opendatacommunities.org/id/district-council/worcester
+
+Worcester City Council
+
+SWDP43/s
+
+Rose Avenue
+
+http://opendatacommunities.org/id/district-council/worcester
+
+Worcester City Council
+
+SWDP43/t
+
+Commandery Coach Depot, Tolladine Road
+
+http://opendatacommunities.org/id/district-council/worcester
+
+Worcester City Council
+
+SWDP43/w
+
+23-24 Foregate Street
+
+http://opendatacommunities.org/id/district-council/worcester
+
+Worcester City Council
+
+SWDP43/r
+
+The Bridge Inn, Lowesmoor Terrace
+
+http://opendatacommunities.org/id/district-council/worcester
+
+Worcester City Council
+
+SWDP43/aa
+
+Lowesmoor Wharf
+
+http://opendatacommunities.org/id/district-council/worcester
+
+Worcester City Council
+
+SWDP44/4
+
+Shrub Hill Opportunity Zone
+
+http://opendatacommunities.org/id/district-council/worcester
+
+Worcester City Council
+
+SWDP44/5
+
+Carden Street Opportunity Zone
+
+http://opendatacommunities.org/id/district-council/worcester
+
+Worcester City Council
+
+P15C0371
+
+The Ice House, Bromyard Road
+
+http://opendatacommunities.org/id/district-council/worcester
+
+Worcester City Council
+
+P15K0271
+
+Rear of 18 St Johns
+
+http://opendatacommunities.org/id/district-council/worcester
+
+Worcester City Council
+
+P15D0554
+
+Former History Centre, Trinity House
+
+http://opendatacommunities.org/id/district-council/worcester
+
+Worcester City Council
+
+P18D0310
+
+http://opendatacommunities.org/id/district-council/worcester
+
+Worcester City Council
+
+P18B0003
+
+137 Bath Road
+
+http://opendatacommunities.org/id/district-council/worcester
+
+Worcester City Council
+
+P16C0542
+
+5 Bull Ring
+
+http://opendatacommunities.org/id/district-council/worcester
+
+Worcester City Council
+
+P17D0087
+
+12 Sansome Place
+
+http://opendatacommunities.org/id/district-council/worcester
+
+Worcester City Council
+
+P17D0451
+
+Stuart House, 147 London Road
+
+http://opendatacommunities.org/id/district-council/worcester
+
+Worcester City Council
+
+P17J0504
+
+The Crown and Anchor 223 Hylton Road
+
+http://opendatacommunities.org/id/district-council/worcester
+
+Worcester City Council
+
+P18A0033
+
+Wyatt Guest House 40 Barbourne Road
+
+http://opendatacommunities.org/id/district-council/worcester
+
+Worcester City Council
+
+P17D0599
+
+Jenkins House 15 Foregate Street
+
+http://opendatacommunities.org/id/district-council/worcester
+
+Worcester City Council
+
+P16K0579
+
+Corner of Comer Road/Lapal Close
+
+http://opendatacommunities.org/id/district-council/worcester
+
+Worcester City Council
+
+P17K0500
+
+Coppertops, 195 Oldbury Road
+
+http://opendatacommunities.org/id/district-council/worcester
+
+Worcester City Council
+
+P15D0510
+
+St Martins Quarter
+
+http://opendatacommunities.org/id/district-council/worcester
+
+Worcester City Council
+
+P17G0258
+
+Former Crown Packaging Site, Williamson Road
+
+http://opendatacommunities.org/id/district-council/worcester
+
+Worcester City Council
+
+SWDP43/7
+
+Former Sansome Walk Swimming Pool
+
+http://opendatacommunities.org/id/district-council/worcester
+
+Worcester City Council
+
+P18H0011
+
+96 Holly Mount
+
+http://opendatacommunities.org/id/district-council/worcester
+
+Worcester City Council
+
+P18D0202
+
+Land adjacent to 18-20 Silver Street
+
+http://opendatacommunities.org/id/district-council/worcester
+
+Worcester City Council
+
+P18D0228
+
+13 Angel Street
+
+http://opendatacommunities.org/id/district-council/worcester
+
+Worcester City Council
+
+P17J0577
+
+YMCA Hostel, Henwick Road
+
+http://opendatacommunities.org/id/district-council/worcester
+
+Worcester City Council
+
+P18K0327
+
+24a McIntrye Road
+
+P15D0331
+
+SiteNameAddress
+
+Former Worcester Fire Station
+
+SitePlanURL
+
+CoordinateReferenceSystem
+
+GeoX
+
+https://www.worcester.gov.uk/documents/10499/8862850/Ribble+Close+-+Site+Plan.pdf/3445c277-de88-5478-3cee-05a92391282e
+ETRS89
+52.208674
+https://www.worcester.gov.uk/documents/10499/8862850/Western+Power+Distribution+Power+Depot+-+Site+Plan.pdf/e3a71969-ad39-e426-d8f7-85b487e5162e
+ETRS89
+52.183613
+https://www.worcester.gov.uk/documents/10499/8862850/Western+Power+Distribution+Power+Depot+-+Site+Plan.pdf/e3a71969-ad39-e426-d8f7-85b487e5162e
+ETRS89
+52.173761
+https://www.worcester.gov.uk/documents/10499/8862850/Malvern+Gate+-+Site+Plan.pdf/b2de51f2-b779-ffbd-9056-de5e0c94ce23
+ETRS89
+52.202013
+https://www.worcester.gov.uk/documents/10499/8862850/Old+Brewery+Service+Station+-+Site+Plan.pdf/7de23f08-0e8b-5274-bcb3-f03962a0b4fd
+ETRS89
+52.175020
+https://www.worcester.gov.uk/documents/10499/8862850/Sherwood+Lane+-+Site+Plan.pdf/053b371f-eb63-1221-cd67-6842d982a6ae
+ETRS89
+52.213017
+https://www.worcester.gov.uk/documents/10499/8862850/Bilford+Road+-+Site+Plan.pdf/4fb13998-fcfa-a200-04f1-1d67fbc4aec0
+ETRS89
+52.183961
+https://www.worcester.gov.uk/documents/10499/8862850/Bransford+Road+-+Site+Plan.pdf/c2c384dc-4a01-5ffb-85f1-c997093ce1bb
+ETRS89
+52.199268
+https://www.worcester.gov.uk/documents/10499/8862850/Bransford+Road+-+Site+Plan.pdf/c2c384dc-4a01-5ffb-85f1-c997093ce1bb
+ETRS89
+52.186872
+https://www.worcester.gov.uk/documents/10499/8862850/79+St+Johns+-+Site+Plan.pdf/7aa8c869-4e5d-c6a4-4151-4c38aaf5ceef
+ETRS89
+52.198356
+https://www.worcester.gov.uk/documents/10499/8862850/Rose+Avenue+-+Site+Plan.pdf/467da1b2-4ef3-2111-de58-534a1ef21a73
+ETRS89
+52.207448
+https://www.worcester.gov.uk/documents/10499/8862850/Commandery+Coach+Depot%2C+Tolladine+Road+-+Site+Plan.pdf/47775c6d-f877-fc27-fce7-a9924cefb3e0
+ETRS89
+52.196156
+https://www.worcester.gov.uk/documents/10499/8862850/23-24+Foregate+Street.pdf/c1d47512-56b4-472d-35e6-85d37bcfc101
+ETRS89
+52.195967
+https://www.worcester.gov.uk/documents/10499/8862850/The+Bridge+Inn%2C+Lowesmoor+Terrace+-+Site+Plan.pdf/76b9ddf0-18c9-de12-5624-73cff99ade98
+52.195718
+https://www.worcester.gov.uk/documents/10499/8862850/Lowesmoor+Wharf+-+Site+Plan.pdf/e7fa6326-466e-7688-3def-084415c4abab ETRS89
+ETRS89
+52.195266
+https://www.worcester.gov.uk/documents/10499/8862850/Shrub+Hill+Opportunity+Zone+-+Site+Plan.pdf/1666c84a-5451-8f4a-8ce6-2c0631056c24
+ETRS89
+52.190440
+https://www.worcester.gov.uk/documents/10499/8862850/Carden+Street+Opportunity+Zone+-+Site+Plan.pdf/bfbaefdf-9554-b616-b931-033b6bae3d3c
+ETRS89
+52.186742
+https://www.worcester.gov.uk/documents/10499/8862850/The+Ice+House%2C+Bromyard+Road+-+Site+Plan.pdf/6bf9cfbd-eed4-371c-6fe1-9f35b9107371
+52.188851
+https://www.worcester.gov.uk/documents/10499/8862850/Rear+of+18+St+Johns+-+Site+Plan.pdf/8a1e3337-ecc0-8e7e-0c3b-3b10a79bbe32ETRS89
+ETRS89
+52.193468
+https://www.worcester.gov.uk/documents/10499/8862850/Former+History+Centre+%2C+Trinity+House+-+Site+Plan.pdf/547b37b1-d9b9-8403-7802-0b9e4b3ef2a2
+ETRS89
+52.190562
+https://www.worcester.gov.uk/documents/10499/8862850/Former+Fire+Station.pdf/843f717a-fb40-2075-d90f-666dae531d92
+ETRS89
+52.181740
+https://www.worcester.gov.uk/documents/10499/8862850/137+Bath+Road.pdf/de97e2ca-aade-3369-a1d3-ea3649c31f20
+ETRS89
+52.188430
+https://www.worcester.gov.uk/documents/10499/8862850/5+Bull+Ring.pdf/530d7a19-672c-a1f9-734e-301a3ef00732
+ETRS89
+52.195190
+https://www.worcester.gov.uk/documents/10499/8862850/12+Sansome+Place.pdf/3df2572d-bdfb-70ff-14d2-c6a28532fdc8
+52.185070
+https://www.worcester.gov.uk/documents/10499/8862850/Stuart+House+147+London+Road.pdf/dac65215-72b8-3aa3-49ec-959b7421f19bETRS89
+ETRS89
+52.196700
+https://www.worcester.gov.uk/documents/10499/8862850/The+Crown+and+Anchor+223+Hylton+Road.pdf/660f182e-e942-eb1e-1840-7075553bbb63
+ETRS89
+52.202680
+https://www.worcester.gov.uk/documents/10499/8862850/The+Crown+and+Anchor+223+Hylton+Road.pdf/660f182e-e942-eb1e-1840-7075553bbb63
+ETRS89
+52.195350
+https://www.worcester.gov.uk/documents/10499/8862850/Jenkins+House+15+Foregate+Street.pdf/47cc0dc7-3b83-ca8e-6aa8-7af5876fe0c9
+ETRS89
+52.189480
+https://www.worcester.gov.uk/documents/10499/8862850/Corner+of+Comer+Road+Lapel+Road.pdf/51b3c2a2-f963-d23f-ec50-3701a907d4e7
+52.196380
+https://www.worcester.gov.uk/documents/10499/8862850/Coppertop+195+Oldbury+Road.pdf/171ae726-7bbe-3d9e-bb4b-c02208e5e2f0 ETRS89
+ETRS89
+52.192950
+https://www.worcester.gov.uk/documents/10499/8862850/St+Martins+Quarter.pdf/796e9d98-2f46-28cf-bc29-954d9ba00271
+ETRS89
+52.188480
+https://www.worcester.gov.uk/documents/10499/8862850/Former+Crown+Packaging+Site+Williamson+Road.pdf/01ddd2d6-a281-5c5e-ac21-1054320a01a9
+ETRS89
+52.199018
+https://www.worcester.gov.uk/documents/10499/8862850/Sansome+Walk+-+Site+Plan.pdf/154cad3a-40df-0c29-85a8-34c90eb47493
+ETRS89
+52.200.96
+https://www.worcester.gov.uk/documents/10499/8862850/Sansome+Walk+-+Site+Plan.pdf/154cad3a-40df-0c29-85a8-34c90eb47493
+52.194160
+https://www.worcester.gov.uk/documents/10499/8862850/Land+adj+to+18-20+Silver+Street.pdf/71ffbd0a-55bb-b1d3-0bed-79299a6692a5ETRS89
+ETRS89
+52.193480
+https://www.worcester.gov.uk/documents/10499/8862850/13+Angel+Street.pdf/04d6e7a0-3333-cbd5-f54c-207faa817991
+52.192970
+https://www.worcester.gov.uk/documents/10499/8862850/YMCA+Hostel%2C+Henwick+Road.pdf/bb0e04d7-8ce5-b2d7-b5d0-ad7ced2765ffETRS89
+ETRS89
+52.190550
+https://www.worcester.gov.uk/documents/10499/8862850/24a+McIntyre+Road.pdf/d8800722-0c5b-5f94-eee5-2627523badab
+ETRS89
+
+52.190268
+
+GeoY
+
+Hectares
+
+-2.203305
+
+1.20
+
+-2.199564
+
+2.58
+
+-2.230961
+
+0.14
+
+-2.234108
+
+1.28
+
+-2.226100
+
+0.14
+
+-2.237981
+
+0.50
+
+-2.216007
+
+0.67
+
+-2.253973
+
+0.44
+
+-2.188366
+
+0.50
+
+-2.235188
+
+0.05
+
+-2.201603
+
+0.18
+
+-2.180756
+
+0.07
+
+-2.221975
+
+0.10
+
+-2.215645
+
+0.10
+
+-2.216588
+
+1.14
+
+-2.211276
+
+19.72
+
+-2.215937
+
+3.90
+
+-2.251310
+
+0.45
+
+-2.234508
+
+0.11
+
+-2.219840
+
+0.05
+
+-2.221496
+
+0.16
+
+-2.216960
+
+0.13
+
+-2.233010
+
+0.07
+
+-2.219490
+
+0.01
+
+-2.205690
+
+0.15
+
+-2.235830
+
+0.03
+
+-2.225920
+
+0.02
+
+-2.221910
+
+0.01
+
+-2.238270
+
+0.15
+
+-2.250430
+
+0.65
+
+-2.216430
+
+0.23
+
+-2.203850
+
+7.50
+
+-2.220537
+
+0.80
+
+-2.202640
+
+0.40
+
+-2.218300
+
+0.05
+
+-2.222150
+
+0.01
+
+-2.236130
+
+0.97
+
+-2.240610
+
+0.08
+
+OwnershipStatus
+
+Deliverable
+
+PlanningStatus
+
+PermissionType
+
+not owned by a public authority
+
+yes
+
+not permissioned
+
+Not Permissioned
+
+PermissionDate
+
+https://www.worcester.gov.uk/planning-application-search
+
+PlanningHistory
+
+not owned by a public authority
+
+yes
+
+not permissioned
+
+Not Permissioned
+
+https://www.worcester.gov.uk/planning-application-search
+
+not owned by a public authority
+
+yes
+
+not permissioned
+
+Not Permissioned
+
+https://www.worcester.gov.uk/planning-application-search
+
+not owned by a public authority
+
+yes
+
+not permissioned
+
+Not Permissioned
+
+https://www.worcester.gov.uk/planning-application-search
+
+not owned by a public authority
+
+yes
+
+permissioned
+
+full planning permission
+
+https://www.worcester.gov.uk/planning-application-search
+
+owned by a public authority
+
+yes
+
+not permissioned
+
+Not Permissioned
+
+https://www.worcester.gov.uk/planning-application-search
+
+owned by a public authority
+
+yes
+
+not permissioned
+
+Not Permissioned
+
+https://www.worcester.gov.uk/planning-application-search
+
+not owned by a public authority
+
+yes
+
+not permissioned
+
+Not Permissioned
+
+https://www.worcester.gov.uk/planning-application-search
+
+not owned by a public authority
+
+yes
+
+not permissioned
+
+Not Permissioned
+
+https://www.worcester.gov.uk/planning-application-search
+
+not owned by a public authority
+
+yes
+
+pending decision
+
+Not Permissioned
+
+https://www.worcester.gov.uk/planning-application-search
+
+not owned by a public authority
+
+yes
+
+not permissioned
+
+Not Permissioned
+
+https://www.worcester.gov.uk/planning-application-search
+
+not owned by a public authority
+
+yes
+
+not permissioned
+
+Not Permissioned
+
+https://www.worcester.gov.uk/planning-application-search
+
+not owned by a public authority
+
+yes
+
+not permissioned
+
+Not Permissioned
+
+https://www.worcester.gov.uk/planning-application-search
+
+not owned by a public authority
+
+yes
+
+not permissioned
+
+Not Permissioned
+
+https://www.worcester.gov.uk/planning-application-search
+
+not owned by a public authority
+
+yes
+
+not permissioned
+
+Not Permissioned
+
+https://www.worcester.gov.uk/planning-application-search
+
+not owned by a public authority
+
+yes
+
+not permissioned
+
+Not Permissioned
+
+https://www.worcester.gov.uk/planning-application-search
+
+mixed ownership
+
+yes
+
+not permissioned
+
+Not Permissioned
+
+not owned by a public authority
+
+yes
+
+permissioned
+
+full planning permission
+
+2016-07-14
+
+https://www.worcester.gov.uk/planning-application-search
+
+not owned by a public authority
+
+yes
+
+permissioned
+
+full planning permission
+
+2016-12-01
+
+https://www.worcester.gov.uk/planning-application-search
+
+not owned by a public authority
+
+yes
+
+permissioned
+
+full planning permission
+
+2016-05-23
+
+https://www.worcester.gov.uk/planning-application-search
+
+not owned by a public authority
+
+yes
+
+permissioned
+
+permission in principle
+
+2017-08-17
+
+https://www.worcester.gov.uk/planning-application-search
+
+not owned by a public authority
+
+yes
+
+permissioned
+
+full planning permission
+
+2018-04-20
+
+https://www.worcester.gov.uk/planning-application-search
+
+not owned by a public authority
+
+yes
+
+permissioned
+
+full planning permission
+
+2018-05-04
+
+https://www.worcester.gov.uk/planning-application-search
+
+not owned by a public authority
+
+yes
+
+permissioned
+
+full planning permission
+
+2017-02-28
+
+https://www.worcester.gov.uk/planning-application-search
+
+not owned by a public authority
+
+yes
+
+permissioned
+
+full planning permission
+
+2017-11-07
+
+https://www.worcester.gov.uk/planning-application-search
+
+not owned by a public authority
+
+yes
+
+permissioned
+
+full planning permission
+
+2017-11-09
+
+https://www.worcester.gov.uk/planning-application-search
+
+not owned by a public authority
+
+yes
+
+permissioned
+
+full planning permission
+
+2018-03-23
+
+https://www.worcester.gov.uk/planning-application-search
+
+not owned by a public authority
+
+yes
+
+permissioned
+
+full planning permission
+
+2017-10-27
+
+https://www.worcester.gov.uk/planning-application-search
+
+not owned by a public authority
+
+yes
+
+permissioned
+
+full planning permission
+
+2017-04-18
+
+https://www.worcester.gov.uk/planning-application-search
+
+not owned by a public authority
+
+yes
+
+permissioned
+
+full planning permission
+
+2018-02-28
+
+https://www.worcester.gov.uk/planning-application-search
+
+not owned by a public authority
+
+yes
+
+permissioned
+
+full planning permission
+
+2017-12-15
+
+https://www.worcester.gov.uk/planning-application-search
+
+not owned by a public authority
+
+yes
+
+permissioned
+
+full planning permission
+
+2018-01-10
+
+https://www.worcester.gov.uk/planning-application-search
+
+owned by a public authority
+
+yes
+
+not permissioned
+
+Not Permissioned
+
+not owned by a public authority
+
+yes
+
+permissioned
+
+full planning permission
+
+2018-05-15
+
+https://www.worcester.gov.uk/planning-application-search
+
+not owned by a public authority
+
+yes
+
+permissioned
+
+full planning permission
+
+2018-09-21
+
+https://www.worcester.gov.uk/planning-application-search
+
+not owned by a public authority
+
+yes
+
+permissioned
+
+full planning permission
+
+2018-09-28
+
+https://www.worcester.gov.uk/planning-application-search
+
+not owned by a public authority
+
+yes
+
+permissioned
+
+full planning permission
+
+2018-10-29
+
+https://www.worcester.gov.uk/planning-application-search
+
+not owned by a public authority
+
+yes
+
+permissioned
+
+full planning permission
+
+2018-11-22
+
+https://www.worcester.gov.uk/planning-application-search
+
+https://www.worcester.gov.uk/planning-application-search
+
+https://www.worcester.gov.uk/planning-application-search
+
+ProposedForPIP
+
+MinNetDwellings
+
+NetDwellingsRangeFrom
+
+NetDwellingsRangeTo
+
+50
+
+DevelopmentDescription
+
+NonHousingDevelopment
+
+Part2
+
+40
+
+50
+
+40
+
+40
+
+40
+
+11
+
+5
+
+11
+
+55
+
+45
+
+55
+
+18
+
+12
+
+18
+
+30
+
+25
+
+30
+
+20
+
+15
+
+20
+
+10
+
+8
+
+10
+
+15
+
+9
+
+15
+
+10
+
+10
+
+10
+
+8
+
+5
+
+8
+
+7
+
+5
+
+7
+
+10
+
+5
+
+10
+
+9
+
+5
+
+9
+
+100
+
+50
+
+100
+
+54
+
+30
+
+54
+
+11
+
+11
+
+11
+
+9
+
+5
+
+9
+
+9
+
+9
+
+9
+
+5
+
+5
+
+5
+
+6
+
+5
+
+6
+
+6
+
+5
+
+6
+
+6
+
+5
+
+6
+
+6
+
+5
+
+6
+
+6
+
+5
+
+6
+
+8
+
+5
+
+8
+
+20
+
+18
+
+20
+
+42
+
+38
+
+42
+
+98
+
+85
+
+98
+
+215
+
+210
+
+215
+
+50
+
+33
+
+35
+
+5
+
+5
+
+5
+
+9
+
+9
+
+10
+
+6
+
+6
+
+6
+
+63
+
+63
+
+87
+
+5
+
+5
+
+5
+
+HazardousSubstances
+
+SiteInformation
+
+Notes
+
+FirstAddedDate
+
+LastUpdatedDate
+
+04/08/2017
+
+20/12/2018
+
+04/08/2017
+
+20/12/2018
+
+04/08/2017
+
+20/12/2018
+
+04/08/2017
+
+20/12/2018
+
+04/08/2017
+
+20/12/2018
+
+04/08/2017
+
+20/12/2018
+
+04/08/2017
+
+20/12/2018
+
+04/08/2017
+
+20/12/2018
+
+04/08/2017
+
+20/12/2018
+
+04/08/2017
+
+20/12/2018
+
+04/08/2017
+
+20/12/2018
+
+04/08/2017
+
+20/12/2018
+
+04/08/2017
+
+20/12/2018
+
+04/08/2017
+
+20/12/2018
+
+04/08/2017
+
+20/12/2018
+
+04/08/2017
+
+20/12/2018
+
+04/08/2017
+
+20/12/2018
+
+04/08/2017
+
+20/12/2018
+
+04/08/2017
+
+20/12/2018
+
+04/08/2017
+
+20/12/2018
+
+20/12/2018
+
+20/12/2018
+
+20/12/2018
+
+20/12/2018
+
+20/12/2018
+
+20/12/2018
+
+20/12/2018
+
+20/12/2018
+
+20/12/2018
+
+20/12/2018
+
+20/12/2018
+
+20/12/2018
+
+20/12/2018
+
+20/12/2018
+
+20/12/2018
+
+20/12/2018
+
+20/12/2018
+
+20/12/2018
+
+20/12/2018
+
+20/12/2018
+
+20/12/2018
+
+20/12/2018
+
+20/12/2018
+
+20/12/2018
+
+04/08/2017
+
+20/12/2018
+
+20/12/2018
+
+20/12/2018
+
+20/12/2018
+
+20/12/2018
+
+20/12/2018
+
+20/12/2018
+
+20/12/2018
+
+20/12/2018
+
+20/12/2018
+
+20/12/2018
+
+

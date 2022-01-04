@@ -1,0 +1,3 @@
+pipeline,resource,field,fields,separator,entry-date,start-date,end-date
+brownfield-land,,Notes,DevelopmentDescription;SiteInformation,. ,2020-09-04,2020-09-04,
+brownfield-land,,SiteNameAddress,SITENAME;Site Name;Address 1;Address 2,", ",2020-09-04,2020-09-04,

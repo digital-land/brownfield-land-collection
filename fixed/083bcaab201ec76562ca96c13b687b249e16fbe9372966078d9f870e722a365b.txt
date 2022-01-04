@@ -1,0 +1,154 @@
+Fylde Council Brownfield Land Register,,,,,,,,,,,,,,,,
+(a) Reference,(b) name and address,(c) plan,(d) location,(d) location,(e) co-ordinate,(f) area of,(g) name of,(h) URI of,(i) ownership status (j) deliverable?,(k) planning,(l) permission,(m) no. of,(n) minimum,(o) non-housing,(p) date,(q) date
+number,Fylde Council Brownfield Land Register,Fylde Council Brownfield Land Register,easting,northing,system,"land, Ha",Local Authority Local,,Fylde Council Brownfield Land Register,status,status,dwellings,Fylde Council Brownfield Land Register,development,entered,updated
+Fylde Council Brownfield Land Register,Fylde Council Brownfield Land Register,Fylde Council Brownfield Land Register,Fylde Council Brownfield Land Register,Fylde Council Brownfield Land Register,Fylde Council Brownfield Land Register,Fylde Council Brownfield Land Register,Fylde Council Brownfield Land Register,Authority,Fylde Council Brownfield Land Register,Fylde Council Brownfield Land Register,Fylde Council Brownfield Land Register,Fylde Council Brownfield Land Register,Fylde Council Brownfield Land Register,Fylde Council Brownfield Land Register,Fylde Council Brownfield Land Register,Fylde Council Brownfield Land Register
+Fylde Council Brownfield Land Register,Fylde Council Brownfield Land Register,Provided,Fylde Council Brownfield Land Register,Fylde Council Brownfield Land Register,,Fylde Council Brownfield Land Register,,not owned by a,,,Fylde Council Brownfield Land Register,,Fylde Council Brownfield Land Register,Fylde Council Brownfield Land Register,,
+BP01,"Land off Bridgeside, St Annes",Fylde Council Brownfield Land Register,330941,431694 OSGB36,,0.426 Fylde Council,,http://opendatacommunities.org/Diedl/idviesrtaribclte-councPile/rfymlidsesioned,,,Full (aa) 26/02/2014 (13/032212),,22,21/12/2017,,
+BP02,"Council Car Park & Airport Parking Site, rear 11-63","separately
+Provided",331213,431629 OSGB36,,0.647 Fylde Council,,"public authority
+unknownhttp://opendatacommunities.org/Diedl/idviesrtaribclte-councPile/rfymlidsesioned",,,Full (aa) 18/03/2016 (16/019245),,25,21/12/2017,,
+BP03,"Westgate Road, St Annes
+Pontins Holiday Centre, Clifton Drive North, St Annes","separately
+Provided",330855,431298 OSGB36,,15.632 Fylde Council,,"ownership
+not owned by ahttp://opendatacommunities.org/Diedl/idviesrtaribclte-councPile/rfymlidsesioned",,,Full (aa) 28/03/2017 (16/0036629),,369,21/12/2017,,
+BP05a,"Former Clock Garage, Preston New Road, Westby","separately
+Provided",335688,432946 OSGB36,,1.576 Fylde Council,,"public authority
+not owned by ahttp://opendatacommunities.org/Diedl/idviesrtaribclte-councPile/rfymlidsesioned",,,Out (bb)14/01/2013 (11/084174) (RM pending 15/081941),,,21/12/2017,,
+BP28,"Spengarth, Cropper Road, Westby","separately
+Provided",334422,432924 OSGB36,,0.67 Fylde Council,,"public authority
+not owned by ahttp://opendatacommunities.org/id/district-councPile/fnydlidneg decision",,,14,,14,21/12/2017,,
+EL03,"Land adj. Bonds of Elswick, Bonds Lane, Elswick","separately
+Provided",342262,438585 OSGB36,,0.26 Fylde Council,,"public authority
+not owned by ahttp://opendatacommunities.org/Diedl/idviesrtaribclte-councPile/rfymlidsesioned",,,Out (bb) 12/02/2016 (15/03489),,8,21/12/2017,,
+FR04,"122 Lytham Road, Freckleton","separately
+Provided",342441,428896 OSGB36,,0.26 Fylde Council,,"public authority
+not owned by ahttp://opendatacommunities.org/id/district-councPile/rfymlidsesioned",,,Full (aa) 22/09/2017 (17/03973),,7,21/12/2017,,
+FR05,"Land off Ruskin Road, Freckleton","separately
+Provided",342624,428833 OSGB36,,0.38 Fylde Council,,"public authority
+not owned by ahttp://opendatacommunities.org/id/district-councPile/rfymlidsesioned",,,Full (aa) 12/12/2016 (16/060191),,11,21/12/2017,,
+FR11a,"Land to rear 56-64 Preston Old Road, Freckleton","separately
+Provided",343224,428873 OSGB36,,0.27 Fylde Council,,"public authority
+not owned by ahttp://opendatacommunities.org/id/district-councPile/rfymlidsesioned",,,Out (bb) 13/01/2017 (16/07390),,9,21/12/2017,,
+FR41,"Croft Court, Naze Lane, Freckleton","separately
+Provided",342957,428751 OSGB36,,0.45 Fylde Council,,"public authority
+owned by a publichttp://opendatacommunities.org/id/district-counciNl/ofty lpdeermissioned",,,13,,13,21/12/2017,,
+FR48,"Naze Court, Naze Lane, Freckleton","separately
+Provided",342817,428738 OSGB36,,0.33 Fylde Council,,"authority
+owned by a publichttp://opendatacommunities.org/id/district-counciNl/ofty lpdeermissioned",,,12,,12,21/12/2017,,
+FR49,"Whittles, Preston New Road, Warton","separately
+Provided",343409,429315 OSGB36,,0.29 Fylde Council,,"authority
+not owned by ahttp://opendatacommunities.org/id/district-councPile/rfymlidsesioned",,,Out (bb) 03/06/2015 (14/09143),,4,21/12/2017,,
+FR50,"197 Kirkham Road, North Bypass, Freckleton","separately
+Provided",342357,429894 OSGB36,,2.6 Fylde Council,,"public authority
+not owned by ahttp://opendatacommunities.org/id/district-councPile/rfymlidsesioned",,,Full (aa) 03/12/2015 (14/089152),,12,21/12/2017,,
+FR10,"separately
+ProvidedQuernmore Trading Estate, Croft Butts Lane, Freckleton",,343056,428698 OSGB36,,0.48 Fylde Council,,"public authority
+not owned by ahttp://opendatacommunities.org/id/district-councPile/rfymlidsesioned",,,Full (aa) 22/12/2017 (17/096110),,10,21/12/2017,,
+KI01,"Sunnybank Mill, Best Street, Kirkham","separately
+Provided",341802,432382 OSGB36,,1.3 Fylde Council,,"public authority
+http://opendmaitxaecdo mowmnuenristiheisp.org/id/district-counciNl/ofty lpdeermissioned",,,55,,55,21/12/2017,,
+KI30b,"Campbells Caravans, Blackpool Road, Kirkham","separately
+Provided",340497,429315 OSGB36,,2.6 Fylde Council,,not owned by ahttp://opendatacommunities.org/id/district-council/fylde,,,30,,30,21/12/2017,,
+KI45,"Post Office Hotel, 18 Freckleton Street, Kirkham","separately
+Provided",342622,432067 OSGB36,,0.06 Fylde Council,,"public authority
+not owned by ahttp://opendatacommunities.org/id/district-councPile/fnydlidneg decision",,,6,,6,21/12/2017,,
+LE09,"Sunnydale Nurseries, Garstang Road, Little Eccleston","separately
+Provided",341756,440388 OSGB36,,1 Fylde Council,,"public authority
+not owned by ahttp://opendatacommunities.org/id/district-councPile/rfymlidsesioned",,,Full (aa) 11/08/2017 (16/096481),,41,21/12/2017,,
+LY14,"AXA Data Centre, Westcliffe, Lytham","separately
+Provided",337053,427356 OSGB36,,1 Fylde Council,,"public authority
+not owned by ahttp://opendatacommunities.org/id/district-councPile/rfymlidsesioned",,,Full (aa) 28/06/2017 (16/081675),,65,21/12/2017,,
+LY35,"Ashtons Nursery, Mythop Road, Lytham","separately
+Provided",337392,427791 OSGB36,,0.3 Fylde Council,,"public authority
+not owned by ahttp://opendatacommunities.org/Diedl/idviesrtaribclte-councPile/fnydlidneg decision",,,12,,12,21/12/2017,,
+LY60,"Hole in One, Forest Drive, Lytham St Annes","separately
+Provided",335723,427598 OSGB36,,0.35 Fylde Council,,"public authority
+not owned by ahttp://opendatacommunities.org/id/district-councPile/fnydlidneg decision",,,5,,5,21/12/2017,,
+LY30,"Land adj. Land Registry, Preston Road, Lytham","separately
+Provided",337701,427241 OSGB36,,0.481 Fylde Council,,"public authority
+not owned by ahttp://opendatacommunities.org/id/district-councPile/rfymlidsesioned",,,Out (bb) 11/09/2015 (14/071846),,14,21/12/2017,,
+SA103,"Land adj Keenans Mill, Lord Street, St Annes","separately
+Provided",331984,429394 OSGB36,,0.3 Fylde Council,,"public authority
+not owned by ahttp://opendatacommunities.org/Diedl/idviesrtaribclte-councPile/rfymlidsesioned",,,Full (aa) 28/02/2017 (16/090256),,26,21/12/2017,,
+SA10,"Fairways Garage, Heeley Road, St Annes","separately
+Provided",331609,429869 OSGB36,,0.44 Fylde Council,,"public authority
+not owned by ahttp://opendatacommunities.org/Diedl/idviesrtaribclte-counciNl/ofty lpdeermissioned",,,20,,20,21/12/2017,,
+SA13,"Public Offices, Clifton Drive South, St Annes","separately
+Provided",332041,432067 OSGB36,,0.3 Fylde Council,,"public authority
+owned by a publichttp://opendatacommunities.org/id/district-counciNl/ofty lpdeermissioned",,,14,,14,21/12/2017,,
+SA50,"Electronic Data Systems (EDS), Heyhouses Lane, St","separately
+Provided",333656,429171 OSGB36,,4.6 Fylde Council,,"authority
+not owned by ahttp://opendatacommunities.org/id/district-councPile/rfymlidsesioned",,,Out (bb) 26/10/2016 15/078878,,88,21/12/2017,,
+SA50a,"Annes
+Electronic Data Systems (EDS), Heyhouses Lane, St","separately
+Provided",333799,429376 OSGB36,,7.2 Fylde Council,,"public authority
+not owned by ahttp://opendatacommunities.org/id/district-councPile/rfymlidsesioned",,,RM (cc) 25/12/2013 13/0441862,,162,21/12/2017,,
+Fylde Council Brownfield Land Register,Annes,separately,Fylde Council Brownfield Land Register,Fylde Council Brownfield Land Register,,Fylde Council Brownfield Land Register,,public authority,,,Fylde Council Brownfield Land Register,,Fylde Council Brownfield Land Register,Fylde Council Brownfield Land Register,,
+,,,,,,,,,,,,,,,,
+(a) Reference,(b) name and address,(c) plan,(d) location,(d) location,(e) co-ordinate,(f) area of,(g) name of,(h) URI of,(i) ownership status (j) deliverable?,(k) planning,(l) permission,(m) no. of,(n) minimum,(o) non-housing,(p) date,(q) date
+number,Fylde Council Brownfield Land Register,Fylde Council Brownfield Land Register,easting,northing,system,"land, Ha",Local Authority Local,,Fylde Council Brownfield Land Register,status,status,dwellings,Fylde Council Brownfield Land Register,development,entered,updated
+Fylde Council Brownfield Land Register,Fylde Council Brownfield Land Register,Fylde Council Brownfield Land Register,Fylde Council Brownfield Land Register,Fylde Council Brownfield Land Register,Fylde Council Brownfield Land Register,Fylde Council Brownfield Land Register,Fylde Council Brownfield Land Register,Authority,Fylde Council Brownfield Land Register,Fylde Council Brownfield Land Register,Fylde Council Brownfield Land Register,Fylde Council Brownfield Land Register,Fylde Council Brownfield Land Register,Fylde Council Brownfield Land Register,Fylde Council Brownfield Land Register,Fylde Council Brownfield Land Register
+Fylde Council Brownfield Land Register,Fylde Council Brownfield Land Register,Provided,Fylde Council Brownfield Land Register,Fylde Council Brownfield Land Register,,Fylde Council Brownfield Land Register,,not owned by a,,,Fylde Council Brownfield Land Register,Fylde Council Brownfield Land Register,Fylde Council Brownfield Land Register,Fylde Council Brownfield Land Register,,
+SA66,"The Gables, 35-39 Orchard Road, St Annes",Fylde Council Brownfield Land Register,332283,428630 OSGB36,,0.13 Fylde Council,,http://opendatacommunities.org/id/district-councPile/rfymlidsesioned,,,Full (aa) 20/03/2017 (16/063199),,19,21/12/2017,,
+SA67,"CMVU Depot, Heeley Road, St Annes","separately
+Provided",331719,429825 OSGB36,,0.17 Fylde Council,,"public authority
+not owned by ahttp://opendatacommunities.org/Diedl/idviesrtaribclte-counciNl/ofty lpdeermissioned",,,Fylde Council Brownfield Land Register,5,5,21/12/2017,,
+SA87,"Kingsway Garage, Kingsway, Lytham St Annes","separately
+Provided",334544,427634 OSGB36,,0.1 Fylde Council,,"public authority
+not owned by ahttp://opendatacommunities.org/Diedl/idviesrtaribclte-councPile/fnydlidneg decision",,,11/0667,30,30,21/12/2017,,
+SA95,"259 Inner Promenade, Lytham St Annes","separately
+Provided",334400,427432 OSGB36,,0.13 Fylde Council,,"public authority
+not owned by ahttp://opendatacommunities.org/id/district-councPile/rfymlidsesioned",,,Full (aa) 09/03/2017 (17/00170),,7,21/12/2017,,
+SA96,"Methodist Church Centre, Church Road, Lytham St","separately
+Provided",332953,429363 OSGB36,,0.31 Fylde Council,,"public authority
+not owned by ahttp://opendatacommunities.org/Diedl/idviesrtaribclte-councPile/rfymlidsesioned",,,Full (aa) 10/11/2017 (17/06695),,9,21/12/2017,,
+SA98,"Annes
+34-36 Orchard Road, Lytham St Annes","separately
+Provided",332144,428650 OSGB36,,0.08 Fylde Council,,"public authority
+not owned by ahttp://opendatacommunities.org/Diedl/idviesrtaribclte-councPile/rfymlidsesioned",,,Out (bb) 18/06/2015 (15/011746),,14,21/12/2017,,
+LY64,"Jubilee House, East Beach, Lytham","separately
+Provided",337562,427139 OSGB36,,1.08 Fylde Council,,"public authority
+not owned by ahttp://opendatacommunities.org/Diedl/idviesrtaribclte-councPile/rfymlidsesioned",,,Full (aa) 24/10/2017 (17/074270),,20,21/12/2017,,
+SA108,"Westmoreland House, 29-31 Orchard Road, Lytham St.","separately
+Provided",332247,428700 OSGB36,,0.19 Fylde Council,,"public authority
+owned by a publichttp://opendatacommunities.org/Diedl/idviesrtaribclte-councPile/rfymlidsesioned",,,Full (aa) 16/11/2016 (16/047205),,25,21/12/2017,,
+SA109,"Annes
+Petros House, St Andrew Road North, St. Annes","separately
+Provided",331967,429223 OSGB36,,0.2 Fylde Council,,"authority
+not owned by ahttp://opendatacommunities.org/Diedl/idviesrtaribclte-councPile/rfymlidsesioned",,,Full (aa) 03/05/2016 (16/009345),,35,21/12/2017,,
+SA110,"The Gallaries, 2-4 Kingsway , Lytham","separately
+Provided",334413,427601 OSGB36,,0.039 Fylde Council,,"public authority
+not owned by ahttp://opendatacommunities.org/Diedl/idviesrtaribclte-councPile/rfymlidsesioned",,,Full (aa) 06/11/2015 (15/048160),,10,21/12/2017,,
+SA111,"St Leonards Bridge Garage, St Leonards Road East,","separately
+Provided",331871,429623 OSGB36,,0.21 Fylde Council,,"public authority
+not owned by ahttp://opendatacommunities.org/Diedl/idviesrtaribclte-councPile/fnydlidneg decision",,,Fylde Council Brownfield Land Register,38,38,21/12/2017,,
+SA112,"Lytham St Annes
+37-39 St Andrews Road South, St.Annes","separately
+Provided",332406,428840 OSGB36,,1 Fylde Council,,"public authority
+not owned by ahttp://opendatacommunities.org/Diedl/idviesrtaribclte-councPile/rfymlidsesioned",,,Fylde Council Brownfield Land Register,9,9,21/12/2017,,
+WA08a,"Georges Garage, 45 Lytham Road, Warton","separately
+Provided",341694,428958 OSGB36,,0.37 Fylde Council,,"public authority
+not owned by ahttp://opendatacommunities.org/Diedl/idviesrtaribclte-councPile/rfymlidsesioned",,,Fylde Council Brownfield Land Register,16,16,21/12/2017,,
+WS06,"Pennine View, Weeton Road, Wesham","separately
+Provided",341234,433214 OSGB36,,0.16 Fylde Council,,"public authority
+not owned by ahttp://opendatacommunities.org/id/district-counciNl/ofty lpdeermissioned",,,Fylde Council Brownfield Land Register,12,12,21/12/2017,,
+SA118,"314 Clifton Drive North, Lytham St Annes","separately
+Provided",331887,428818 OSGB36,,0.08 Fylde Council,,"public authority
+not owned by ahttp://opendatacommunities.org/Diedl/idviesrtaribclte-councPile/rfymlidsesioned",,,Full (aa) 05/10/2016 16/05957,,7,21/12/2017,,
+ST15,"Thornfield Holiday Camp, Castle Lane, Staining","separately
+Provided",334802,436259 OSGB36,,1.14 Fylde Council,,"public authority
+not owned by ahttp://opendatacommunities.org/id/district-counciNl/ofty lpdeermissioned",,,Fylde Council Brownfield Land Register,28,28,21/12/2017,,
+TR03,"Foundary Yard, Kirkham Road, Treales","separately
+Provided",343992,432836 OSGB36,,0.32 Fylde Council,,"public authority
+not owned by ahttp://opendatacommunities.org/Diedl/idviesrtaribclte-councPile/rfymlidsesioned",,,Full (aa) 05/10/2016 16/02178,,8,21/12/2017,,
+WA10,"4 Lytham Road, Warton","separately
+Provided",342102,428817 OSGB36,,0.645 Fylde Council,,"public authority
+not owned by ahttp://opendatacommunities.org/id/district-counciNl/ofty lpdeermissioned",,,Fylde Council Brownfield Land Register,19,19,21/12/2017,,
+WA15,"Former GEC Marconi Factory & adjacent land, Lytham","separately
+Provided",341830,428480 OSGB36,,5.1 Fylde Council,,"public authority
+not owned by ahttp://opendatacommunities.org/Diedl/idviesrtaribclte-councPile/rfymlidsesioned",,,Full (aa) 06/01/2016 15/0701669,,169,21/12/2017,,
+WA40,"Road, Warton
+Oaklands Caravan Park, 252 Lytham Road, Warton","separately
+Provided",340581,428537 OSGB36,,2.5 Fylde Council,,"public authority
+not owned by ahttp://opendatacommunities.org/id/district-councPile/fnydlidneg decision",,,Fylde Council Brownfield Land Register,53,53,21/12/2017,,
+Fylde Council Brownfield Land Register,Fylde Council Brownfield Land Register,separately,Fylde Council Brownfield Land Register,Fylde Council Brownfield Land Register,,Fylde Council Brownfield Land Register,,public authority,,,Fylde Council Brownfield Land Register,Fylde Council Brownfield Land Register,Fylde Council Brownfield Land Register,Fylde Council Brownfield Land Register,,
