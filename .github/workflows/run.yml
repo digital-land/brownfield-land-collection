@@ -55,8 +55,5 @@ jobs:
       run: make push-collection-s3
     - name: Run the pipeline to make the dataset
       run: make dataset
-    - name: Commit harmonised files
-      run: (git add harmonised/ ) &&
-           (git diff --quiet && git diff --staged --quiet) || (git commit -m "Harmonised data $(shell date +%F)"; git push origin $(BRANCH))
     - name: Push dataset files to S3
       run: make push-dataset-s3
