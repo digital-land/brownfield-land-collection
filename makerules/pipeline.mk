@@ -134,3 +134,13 @@ pipeline-run::
 var/converted/%.csv: collection/resource/%
 	mkdir -p var/converted/
 	digital-land convert $<
+
+
+metadata.json:
+	echo "{}" > $@
+
+datasette:	metadata.json
+	datasette serve $(DATASET_DIR)/*.sqlite3 \
+	--setting sql_time_limit_ms 5000 \
+	--load-extension $(SPATIALITE_EXTENSION) \
+	--metadata metadata.json
