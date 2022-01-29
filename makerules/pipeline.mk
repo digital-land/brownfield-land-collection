@@ -58,8 +58,8 @@ endef
 
 define build-dataset =
 	mkdir -p $(@D)
-	time digital-land --pipeline-name $(notdir $(basename $@)) load-entries --output-path $(basename $@).sqlite3 $(^)
-	time digital-land --pipeline-name $(notdir $(basename $@)) build-dataset $(basename $@).sqlite3 $@
+	time digital-land --pipeline-name $(notdir $(basename $@)) dataset-create --output-path $(basename $@).sqlite3 $(^)
+	time digital-land --pipeline-name $(notdir $(basename $@)) dataset-entries $(basename $@).sqlite3 $@
 	md5sum $@ $(basename $@).sqlite3
 endef
 
