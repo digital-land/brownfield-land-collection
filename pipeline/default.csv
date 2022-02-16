@@ -1,4 +1,4 @@
-pipeline,resource,field,default-field,entry-date,start-date,end-date
+dataset,resource,field,default-field,entry-date,start-date,end-date
 brownfield-land,,NetDwellingsRangeFrom,MinNetDwellings,,,
 brownfield-land,,NetDwellingsRangeFrom,NetDwellingsRangeTo,,,
 brownfield-land,,NetDwellingsRangeTo,NetDwellingsRangeFrom,,,

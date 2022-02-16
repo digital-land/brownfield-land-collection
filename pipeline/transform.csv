@@ -1,4 +1,4 @@
-pipeline,field,replacement-field
+dataset,field,replacement-field
 brownfield-land,OrganisationURI,organisation
 brownfield-land,SiteReference,name
 brownfield-land,SiteReference,site

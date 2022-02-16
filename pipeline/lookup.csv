@@ -1,4 +1,4 @@
-dataset,resource,organisation,reference,entity
+prefix,resource,organisation,reference,entity
 brownfield-land,,local-authority-eng:TEI,BFR001,1700000
 brownfield-land,,local-authority-eng:TEI,BFR002,1700001
 brownfield-land,,local-authority-eng:TEI,BFR003,1700002

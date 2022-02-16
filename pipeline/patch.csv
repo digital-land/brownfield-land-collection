@@ -1,4 +1,4 @@
-pipeline,resource,field,pattern,value
+dataset,resource,field,pattern,value
 brownfield-land,,,"^<*[Nn][Uu][Ll][Ll]>*$",
 brownfield-land,,,"^#*[Nn]/?[Aa]$",
 brownfield-land,,,"^\?*$",
