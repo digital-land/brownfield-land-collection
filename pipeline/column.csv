@@ -1,4 +1,4 @@
-pipeline,resource,pattern,value
+dataset,resource,column,field
 brownfield-land,,OrganistionURI,OrganisationURI
 brownfield-land,,OrganisationURL,OrganisationURI
 brownfield-land,,OrgansiationURI,OrganisationURI
@@ -121,5 +121,3 @@ brownfield-land,,deliverabl,Deliverable
 brownfield-land,,netdwellin,NetDwellingsRangeFrom
 brownfield-land,,netdwell_1,NetDwellingsRangeTo
 brownfield-land,,hazardouss,HazardousSubstances
-
-
