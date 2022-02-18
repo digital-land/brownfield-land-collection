@@ -1,7 +1,7 @@
 dataset,field,replacement-field
 brownfield-land,OrganisationURI,organisation
 brownfield-land,SiteReference,name
-brownfield-land,SiteReference,site
+brownfield-land,SiteReference,reference
 brownfield-land,SiteNameAddress,site-address
 brownfield-land,GeoX,longitude
 brownfield-land,GeoY,latitude
