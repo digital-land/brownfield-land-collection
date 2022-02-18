@@ -43,6 +43,10 @@ ifeq ($(COLUMN_FIELD_DIR),)
 COLUMN_FIELD_DIR=var/column-field/
 endif
 
+ifeq ($(DATASET_RESOURCE_DIR),)
+DATASET_RESOURCE_DIR=var/dataset-resource/
+endif
+
 ifeq ($(DATASET_DIR),)
 DATASET_DIR=dataset/
 endif
@@ -56,8 +60,8 @@ DATASET_DIRS=\
 endif
 
 define run-pipeline =
-	mkdir -p $(@D) $(ISSUE_DIR)$(notdir $(@D)) $(COLUMN_FIELD_DIR)$(notdir $(@D))
-	digital-land --dataset $(notdir $(@D)) $(DIGITAL_LAND_FLAGS) pipeline --issue-dir $(ISSUE_DIR)$(notdir $(@D)) --column-field-dir $(COLUMN_FIELD_DIR)$(notdir $(@D)) $(PIPELINE_FLAGS) $< $@
+	mkdir -p $(@D) $(ISSUE_DIR)$(notdir $(@D)) $(COLUMN_FIELD_DIR)$(notdir $(@D)) $(DATASET_RESOURCE_DIR)$(notdir $(@D))
+	digital-land --dataset $(notdir $(@D)) $(DIGITAL_LAND_FLAGS) pipeline --issue-dir $(ISSUE_DIR)$(notdir $(@D)) --column-field-dir $(COLUMN_FIELD_DIR)$(notdir $(@D)) --dataset-resource-dir $(DATASET_RESOURCE_DIR)$(notdir $(@D)) $(PIPELINE_FLAGS) $< $@
 endef
 
 define build-dataset =
