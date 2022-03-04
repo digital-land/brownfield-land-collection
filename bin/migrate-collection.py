@@ -56,7 +56,7 @@ w = csv.DictWriter(
         "source",
         "attribution",
         "collection",
-        "documentation_url",
+        "documentation-url",
         "endpoint",
         "licence",
         "organisation",
