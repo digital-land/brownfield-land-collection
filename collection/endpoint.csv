@@ -351,7 +351,7 @@ bc1e50f2d91252e00210565a143c9c61053ceb0177acdd8964fd121776f28517,http://www.sout
 ee1c27c8bb9bc4ced092d94e5e5f6717600592b93f44c1e20a8b657cde571ebb,https://www.elmbridge.gov.uk/_resources/assets/attachment/full/0/6529.csv,,,2020-10-19T15:39:55Z,2020-10-14,
 3d24cab9aeb2543a11dbfecb1228db22537a6867895812662cca9bbeb26c6179,https://liverpool.gov.uk/media/1356598/blr-2020-x-107_mi.csv,,,2021-09-08,2021-09-09,
 c0fcdc64525d3be69736427cd397bf5a3c2d68104e8a9025a3f21662a804139c,http://info.ambervalley.gov.uk/shareddatasets/brownfieldlandregister/ambervalley_brownfieldregister_2017-12-31_rev1.csv,,,2018-05-22T00:00:00Z,2017-12-22,
-567cc8b567f998f53296b08a562bc6e890e60633df2f02f29561eebe4905f1e1,https://www.thanet.gov.uk/media/4078482/BrownfieldLandRegisterThanetDC.csv,,,Z,,2018-07-01
+567cc8b567f998f53296b08a562bc6e890e60633df2f02f29561eebe4905f1e1,https://www.thanet.gov.uk/media/4078482/BrownfieldLandRegisterThanetDC.csv,,,2018-07-01,,2018-07-01
 f29a4f79a84d4114fe08dfd92a9bc566f4d5aeeb1bf714086afad7acdee6bb0b,https://www.barnsley.gov.uk/media/15690/brownfield-register-2017-08-11.xlsx,,,2020-10-19T15:39:52Z,2020-10-14,
 d34af1d118992bcca93e6e8f0773f46103762376ec4e4c09192add94e22e28e1,https://www.burnley.gov.uk/sites/default/files/burnley_brownfieldregister_2018-02-28_rev1_0.csv,,,2018-05-22T00:00:00Z,2018-02-28,2019-10-20
 8fe85852691ecbde2577c6dcb5430df6ba7e2f0d1ccefd86cc8b52b42116305a,https://data.barrowbc.gov.uk/dataset/3f587e30-a91e-4d0e-9525-a660706df8c0/resource/af1eb832-575e-46a0-a615-666daa5ab196/download/barrow-in-furnessbrownfieldregister2017-12-20rev1.csv,,,2018-05-22T00:00:00Z,2017-12-20,
@@ -552,7 +552,7 @@ bc87e63b4ceee2dc1fd6b958305036992e2cb55c2c74753a70af58766f877add,http://www.brom
 b5cee04ab4154f840eac7b12fc6949c1374548f64faeb175fc02fec9ab9f4405,https://www.haringey.gov.uk/sites/haringeygovuk/files/haringey_brownfield_register_final_dec_2017.csv,,,2019-12-14T21:04:54Z,,2019-12-21
 5b8de013f5352b00863e2b8cf96bdbecd89d1f90df8d85593fca92b6ab4739b8,https://www.scarborough.gov.uk/sites/scarborough.gov.uk/files/files/scarborough_brownfieldregister_2019_nov.csv,,,2019-12-15T09:47:54Z,,
 06bb90a22d3bcd347ef6231e3c4e49cbd686f057ea4f6427a0c107e4c8bfa3d5,https://anyfile.255bits.com/wix/download?id=2035f46e190b9f1b4fa9180991d28a90,,,2019-10-20T23:24:49Z,,2019-10-20
-4addebbee6965f941ef1bbbfe240294e11829fd19075037f213483eeebf5a9fc,http://data.rushmoor.gov.uk/Datasets/ThirdPartyLicensed/Brownfield%20Register/rushmoor_brownfieldregister_2018-12-10_rev2.csv,,,Z,2017-12-13,2019-11-22
+4addebbee6965f941ef1bbbfe240294e11829fd19075037f213483eeebf5a9fc,http://data.rushmoor.gov.uk/Datasets/ThirdPartyLicensed/Brownfield%20Register/rushmoor_brownfieldregister_2018-12-10_rev2.csv,,,2017-12-13,2017-12-13,2019-11-22
 3e124ee1c24dc6e3a28c441a451b9cefc35b56f36750cfe03be09f62acb7af2e,https://www.northyorkmoors.org.uk/__data/assets/file/0007/1429792/north-york-moors_brownfieldregister_2018-12-17_rev1.csv,,,2019-11-24T17:56:30Z,2018-12-17,2019-12-18
 4d58e8ec4f1d06a475cc9798245239470c1364abb1945a1da90083d673da6c62,http://www.luton.gov.uk/Environment/Lists/LutonDocuments/Excel/HOU-014.csv,,,2018-05-22T00:00:00Z,2018-12-31,2019-12-20
 cfaacfc1b52b817c91b81d5b7ab08cbeb3c5efc7c925c86231c44fbb9af4822d,https://www.rbkc.gov.uk/sites/default/files/atoms/files/17-12-15%20RBKC%20BrownfieldLandRegister_CSV.csv,,,2018-05-22T00:00:00Z,2017-12-15,
