@@ -3,6 +3,7 @@
 # migrage collection source and endpoint csv files, adding entry-date from the log.csv, and a source key where missing
 
 import os
+import sys
 import csv
 import hashlib
 from datetime import datetime
@@ -12,13 +13,34 @@ endpoint_seen = {}
 source_seen = {}
 
 
+# assert the entry-date is in RFC3339 YYYY-MM-DDTHH:MM:SSZ format
+# - we don't need sub-seconds
+def as_timestamp(date):
+    if len(date) >= 20:
+        dt = datetime.strptime(date[:19], "%Y-%m-%dT%H:%M:%S")
+    elif len(date) == 20:
+        dt = datetime.strptime(date, "%Y-%m-%dT%H:%M:%SZ")
+    elif len(date) == 10:
+        dt = datetime.strptime(date, "%Y-%m-%d")
+    elif len(date) == 7:
+        dt = datetime.strptime(date, "%Y-%m")
+    elif len(date) == 4:
+        dt = datetime.strptime(date, "%Y")
+    else:
+        print("unknown date format", date)
+        sys.exit(2)
+
+    return dt.strftime("%Y-%m-%dT%H:%M:%SZ")
+
+
 def entry_date(row):
     date = row.get("entry-date", "")
     if not date:
         date = endpoints.get(row["endpoint"], "")[:19] + "Z"
     if not date:
-        date = datetime.now().replace(microsecond=0).isoformat() + "Z"
-    return date
+        date = datetime.now().replace().isoformat() + "Z"
+
+    return as_timestamp(date)
 
 
 # get earliest date each endpoint was used ..
