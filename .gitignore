@@ -25,3 +25,7 @@ dataset/
 transformed/
 harmonised/
 issue/
+# files built from the collection
+collection/log.csv
+collection/resource.csv
+collection/pipeline.mk
