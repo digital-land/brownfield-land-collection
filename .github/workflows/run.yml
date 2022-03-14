@@ -50,23 +50,29 @@ jobs:
     - name: Install dependencies
       run: make init
 
-    - name: Fetch previously collected resources from S3
-      run: make fetch-s3
-
     - name: Run the collector
       run: make collect
 
     - name: Commit collection logs
       run: make commit-collection
 
+    - name: Save collected resources to S3
+      run: make save-resources
+
     - name: Build the collection database
       run: make collection
 
-    - name: Push collection database, logs to S3
-      run: make push-collection-s3
+    - name: Push collection database to S3
+      run: make save-collection
 
-    - name: Build datasets from the collected files
+    - name: transform collected files
+      run: make transformed
+
+    - name: Save transformed files to S3
+      run: make save-transformed
+
+    - name: Build datasets from the transformed files
       run: make dataset
 
-    - name: Push datasets to S3
-      run: make push-dataset-s3
+    - name: Save datasets to S3
+      run: make save-dataset
