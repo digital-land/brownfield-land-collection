@@ -4,7 +4,7 @@ include makerules/makerules.mk
 include makerules/development.mk
 include makerules/collection.mk
 
-dataset::
+transformed::
 	mkdir -p $(HARMONISED_DIR)brownfield-land
 
 include makerules/pipeline.mk
