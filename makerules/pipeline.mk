@@ -122,6 +122,9 @@ var/converted/%.csv: collection/resource/%
 	mkdir -p var/converted/
 	digital-land convert $<
 
+transformed::
+	@mkdir -p $(TRANSFORMED_DIR)
+
 metadata.json:
 	echo "{}" > $@
 
