@@ -69,6 +69,10 @@ brownfield-land,,PermissionType,decision pending,other
 brownfield-land,,PermissionType,determination for permitted development,other
 brownfield-land,,PermissionType,expired,other
 brownfield-land,,PermissionType,extant,other
+brownfield-land,,PermissionType,Other,other
+brownfield-land,,PermissionType,permission in principle,permission in principle
+brownfield-land,,PermissionType,Ouline permission,outline planning permission
+brownfield-land,,PermissionType,permission in princple,permission in principle
 brownfield-land,,PermissionType,ful,full planning permission
 brownfield-land,,PermissionType,full,full planning permission
 brownfield-land,,PermissionType,full permission,full planning permission
@@ -353,3 +357,4 @@ brownfield-land,,OrganisationURI,south norfolk,http://opendatacommunities.org/id
 brownfield-land,3c6a9a9d1c175350d98273d0dd73e85a5de2e55c4744b880426e818a3b62db90,Hectares,0..46,0.46
 brownfield-land,fe443fa80b877feec0fb9f9cc5476b30be6ea33505ebf9e1616c5c3c6844e6e0,SiteReference,SSv20,SSV20
 brownfield-land,b155065090c5164dd719ad535b3fc130a92f02d877d77f856e57ea4f6ab1e5c4,LastUpdatedDate,2021-12-01,2021-09-09
+brownfield-land,,OrganisationURI,https://local-authority-eng.register.gov.uk/record/RIB,http://opendatacommunities.org/id/district-council/ribble-valley
