@@ -25,7 +25,7 @@ fieldnames = [
     "latitude",
     "hectares",
     "minimum-net-dwellings",
-    "maxumum-net-dwellings",
+    "maximum-net-dwellings",
     "deliverable",
     "hazardous-substances",
     "ownership-status",
