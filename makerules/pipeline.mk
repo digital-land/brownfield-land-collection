@@ -25,12 +25,6 @@ ifeq ($(CACHE_DIR),)
 CACHE_DIR=var/cache/
 endif
 
-ifeq ($(HARMONISED_DIR),)
-ifneq ($(PIPELINE_FLAGS),)
-HARMONISED_DIR=harmonised/
-endif
-endif
-
 ifeq ($(TRANSFORMED_DIR),)
 TRANSFORMED_DIR=transformed/
 endif
@@ -53,8 +47,9 @@ endif
 
 ifeq ($(DATASET_DIRS),)
 DATASET_DIRS=\
-	$(HARMONISED_DIR)\
 	$(TRANSFORMED_DIR)\
+	$(COLUMN_FIELD_DIR)\
+	$(DATASET_RESOURCE_DIR)\
 	$(ISSUE_DIR)\
 	$(DATASET_DIR)
 endif
@@ -94,12 +89,12 @@ endif
 endif
 
 clobber::
-	rm -rf $(TRANSFORMED_DIR) $(ISSUE_DIR) $(DATASET_DIR)
+	rm -rf $(DATASET_DIRS)
 
 clean::
 	rm -rf ./var
 
-# local copies of the organisation dataset needed by harmonise
+# local copy of the organisation dataset
 init::
 	@mkdir -p $(CACHE_DIR)
 	curl -qfs "https://raw.githubusercontent.com/digital-land/organisation-dataset/main/collection/organisation.csv" > $(CACHE_DIR)organisation.csv
