@@ -59,9 +59,9 @@ DATASET_DIRS=\
 	$(HOISTED_DIR)
 endif
 
-define run-pipeline =
+define run-pipeline
 	mkdir -p $(@D) $(ISSUE_DIR)$(notdir $(@D)) $(COLUMN_FIELD_DIR)$(notdir $(@D)) $(DATASET_RESOURCE_DIR)$(notdir $(@D))
-	digital-land --dataset $(notdir $(@D)) $(DIGITAL_LAND_FLAGS) pipeline --issue-dir $(ISSUE_DIR)$(notdir $(@D)) --column-field-dir $(COLUMN_FIELD_DIR)$(notdir $(@D)) --dataset-resource-dir $(DATASET_RESOURCE_DIR)$(notdir $(@D)) $(PIPELINE_FLAGS) $< $@
+	digital-land --dataset $(notdir $(@D)) $(DIGITAL_LAND_FLAGS) pipeline $(1) --issue-dir $(ISSUE_DIR)$(notdir $(@D)) --column-field-dir $(COLUMN_FIELD_DIR)$(notdir $(@D)) --dataset-resource-dir $(DATASET_RESOURCE_DIR)$(notdir $(@D)) $(PIPELINE_FLAGS) $< $@
 endef
 
 define build-dataset =
@@ -95,6 +95,8 @@ $(error GDAL tools not found in PATH)
 endif
 	sudo apt-get install gdal-bin
 endif
+	pyproj sync --file uk_os_OSTN15_NTv2_OSGBtoETRS.tif -v
+
 
 clobber::
 	rm -rf $(DATASET_DIRS)
