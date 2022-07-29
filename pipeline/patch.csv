@@ -26,15 +26,26 @@ brownfield-land,,OwnershipStatus,local authority,not owned by a public authority
 brownfield-land,,OwnershipStatus,local authority unknown,mixed ownership
 brownfield-land,,OwnershipStatus,mixed,mixed ownership
 brownfield-land,,OwnershipStatus,mixed owner,mixed ownership
+brownfield-land,,OwnershipStatus,Part Public part Not in Public Ownership,mixed ownership
+brownfield-land,,OwnershipStatus,Part owned Kent Highway Services,mixed ownership
+brownfield-land,,OwnershipStatus,Partly owned by a public authority,mixed ownership
 brownfield-land,,OwnershipStatus,multiple ownership,
+brownfield-land,,OwnershipStatus,some owned by a public authority (KCC library),mixed ownership
 brownfield-land,,OwnershipStatus,multipleowners,
+brownfield-land,,OwnershipStatus,Ownership Status,
+brownfield-land,,OwnershipStatus,not PA_owned,not owned by a public authority
+brownfield-land,,OwnershipStatus,not owned by a local authority,not owned by a public authority
+brownfield-land,,OwnershipStatus,Not owned by a Public Authority,not owned by a public authority
 brownfield-land,,OwnershipStatus,not in public ownership,not owned by a public authority
+brownfield-land,,OwnershipStatus,Not owned by apublic authority,not owned by a public authority
 brownfield-land,,OwnershipStatus,not owned by a public aut,not owned by a public authority
 brownfield-land,,OwnershipStatus,not owned by a public authoritity,not owned by a public authority
 brownfield-land,,OwnershipStatus,not owned by a public authority,not owned by a public authority
 brownfield-land,,OwnershipStatus,not owned by apublic authority,not owned by a public authority
 brownfield-land,,OwnershipStatus,not owned by public authority,not owned by a public authority
 brownfield-land,,OwnershipStatus,notownedbyapublicauthority,not owned by a public authority
+brownfield-land,,OwnershipStatus,Kent Highways Service,owned by a public authority
+brownfield-land,,OwnershipStatus,Ministry of Defense,owned by a public authority
 brownfield-land,,OwnershipStatus,kent county council,owned by a public authority
 brownfield-land,,OwnershipStatus,Birmingham City Council,owned by a public authority
 brownfield-land,,OwnershipStatus,onwed by a public authorty,owned by a public authority
@@ -46,6 +57,7 @@ brownfield-land,,OwnershipStatus,owned by a public authority part,mixed ownershi
 brownfield-land,,OwnershipStatus,owned by a public authorty,owned by a public authority
 brownfield-land,,OwnershipStatus,owned by public authority,owned by a public authority
 brownfield-land,,OwnershipStatus,owned by the london borough of bromley,owned by a public authority
+brownfield-land,,OwnershipStatus,owned by a public authority,owned by a public authority
 brownfield-land,,OwnershipStatus,ownedbyapublicauthority,owned by a public authority
 brownfield-land,,OwnershipStatus,ownership unknown,
 brownfield-land,,OwnershipStatus,private,not owned by a public authority
@@ -58,7 +70,11 @@ brownfield-land,,OwnershipStatus,public ownership,owned by a public authority
 brownfield-land,,OwnershipStatus,qwned by a public authority,owned by a public authority
 brownfield-land,,OwnershipStatus,swindon borough council,owned by a public authority
 brownfield-land,,OwnershipStatus,swindon borough council and others,owned by a public authority
+brownfield-land,,OwnershipStatus,owned by the Council,owned by a public authority
+brownfield-land,,OwnershipStatus,owned by public authoriy,owned by a public authority
+brownfield-land,,OwnershipStatus,owned by a publicauthority,owned by a public authority
 brownfield-land,,OwnershipStatus,unknown,
+brownfield-land,,OwnershipStatus,^http:,
 brownfield-land,,OwnershipStatus,unknown owenrship,
 brownfield-land,,OwnershipStatus,unknown owership,
 brownfield-land,,OwnershipStatus,unknown owner,
