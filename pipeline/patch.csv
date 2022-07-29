@@ -1,10 +1,13 @@
 dataset,resource,field,pattern,value
-brownfield-land,,,"^<*[Nn][Uu][Ll][Ll]>*$",
-brownfield-land,,,"^#*[Nn]/?[Aa]$",
-brownfield-land,,,"^\?*$",
-brownfield-land,,,"^-+$",
-brownfield-land,,Hectares,"(\S*)\s*[Hh]ectares?$","\1"
-brownfield-land,,Hectares,"(\S*)\s*ha$","\1"
+brownfield-land,3c6a9a9d1c175350d98273d0dd73e85a5de2e55c4744b880426e818a3b62db90,Hectares,0..46,0.46
+brownfield-land,b155065090c5164dd719ad535b3fc130a92f02d877d77f856e57ea4f6ab1e5c4,LastUpdatedDate,2021-12-01,2021-09-09
+brownfield-land,fe443fa80b877feec0fb9f9cc5476b30be6ea33505ebf9e1616c5c3c6844e6e0,SiteReference,SSv20,SSV20
+brownfield-land,,,^<*[Nn][Uu][Ll][Ll]>*$,
+brownfield-land,,,^#*[Nn]/?[Aa]$,
+brownfield-land,,,^\?*$,
+brownfield-land,,,^-+$,
+brownfield-land,,Hectares,(\S*)\s*[Hh]ectares?$,\1
+brownfield-land,,Hectares,(\S*)\s*ha$,\1
 brownfield-land,,Deliverable,completed,
 brownfield-land,,Deliverable,deliverable,yes
 brownfield-land,,Deliverable,developable,yes
@@ -110,7 +113,7 @@ brownfield-land,,PermissionType,lapsed permission,other
 brownfield-land,,PermissionType,listed building,other
 brownfield-land,,PermissionType,listed building consent,other
 brownfield-land,,PermissionType,mma full planning permission,full planning permission
-brownfield-land,,PermissionType,none,
+brownfield-land,,PermissionType,,
 brownfield-land,,PermissionType,not permissioned,other
 brownfield-land,,PermissionType,oter,other
 brownfield-land,,PermissionType,other - s73 mma,other
@@ -372,8 +375,5 @@ brownfield-land,,OrganisationURI,forest heath,http://opendatacommunities.org/id/
 brownfield-land,,OrganisationURI,maidstone e07000110,http://opendatacommunities.org/id/district-council/maidstone
 brownfield-land,,OrganisationURI,"click here to go to the city council entry on the ministry of housing, communities and local government website",http://opendatacommunities.org/id/unitary-authority/stoke-on-trent
 brownfield-land,,OrganisationURI,south norfolk,http://opendatacommunities.org/id/district-council/south-norfolk
-brownfield-land,3c6a9a9d1c175350d98273d0dd73e85a5de2e55c4744b880426e818a3b62db90,Hectares,0..46,0.46
-brownfield-land,fe443fa80b877feec0fb9f9cc5476b30be6ea33505ebf9e1616c5c3c6844e6e0,SiteReference,SSv20,SSV20
-brownfield-land,b155065090c5164dd719ad535b3fc130a92f02d877d77f856e57ea4f6ab1e5c4,LastUpdatedDate,2021-12-01,2021-09-09
 brownfield-land,,OrganisationURI,https://local-authority-eng.register.gov.uk/record/RIB,http://opendatacommunities.org/id/district-council/ribble-valley
 brownfield-land,,OrganisationURI,http://opendatacommunities.org.id/unitary-authority/herefordshire,http://opendatacommunities.org/id/county-council/hertfordshire
