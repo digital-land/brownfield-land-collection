@@ -5,6 +5,6 @@ on:
   workflow_dispatch: null
 jobs:
   call-workflow:
-    uses: digital-land/collection-template/.github/workflows/callable_run.yml@main
+    uses: digital-land/collection-template/.github/workflows/callable_run.yml@dev
     secrets: inherit
 
