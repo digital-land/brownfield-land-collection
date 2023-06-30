@@ -1,1 +1,1 @@
--e git+https://github.com/digital-land/digital-land-python.git@exception-to-log#egg=digital-land
+-e git+https://github.com/digital-land/digital-land-python.git#egg=digital-land
