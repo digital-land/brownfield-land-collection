@@ -204,6 +204,6 @@ def get_resource_unidentified_lookups(input_path,dataset,organisations):
 collection = Collection(name=None, directory='./collection')
 dataset = 'brownfield-land'
 collection.load()
-resource = '2148f0139bed0fea24c7e01ac24af143ad44b30c6bd9db34e033ba9f7e7130cd'
+resource = '4c02f02f6cdaf7626dd95d34ae8e198304677821484468c24b7381d6617e93dc'
 
 get_resource_unidentified_lookups(f'./collection/resource/{resource}',dataset,collection.resource_organisations(resource))
