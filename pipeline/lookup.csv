@@ -29848,17 +29848,15 @@ brownfield-land,,local-authority-eng:BRD,SW/168,1729839
 brownfield-land,,local-authority-eng:BRD,SW/170,1729840
 brownfield-land,,local-authority-eng:BRD,TH/037,1729841
 brownfield-land,,local-authority-eng:BRD,WI/002,1729842
-brownfield-land,,local-authority-eng:BRC,Map Ref 12 BRA7 Eastern Gateway Development Area, Bracknell (Town Square) (Submission Local Plan),1729843
+brownfield-land,,local-authority-eng:BRC,"Map Ref 12 BRA7 Eastern Gateway Development Area, Bracknell (Town Square) (Submission Local Plan)",1729843
 brownfield-land,,local-authority-eng:BRC,Map Ref 14 BRA12 Former Bus Depot (Submission Local Plan),1729844
-brownfield-land,,local-authority-eng:BRC,Map Ref 43 BRA 17 Bus Station (part of the Southern Gateway Development Area, Bracknell) (Submission Local Plan),1729845
+brownfield-land,,local-authority-eng:BRC,"Map Ref 43 BRA 17 Bus Station (part of the Southern Gateway Development Area, Bracknell) (Submission Local Plan)",1729845
 brownfield-land,,local-authority-eng:BRC,Map Ref 55,1729846
 brownfield-land,,local-authority-eng:BRC,Map ref 57 LP8 BRA18 The Peel Centre and The Point (Submission Local Plan),1729847
 brownfield-land,,local-authority-eng:BRC,Map ref 58,1729848
 brownfield-land,,local-authority-eng:BRC,Map ref 59,1729849
 brownfield-land,,local-authority-eng:BRC,Map ref 60,1729850
 brownfield-land,,local-authority-eng:BRC,Map ref 61,1729851
-brownfield-land,,,Map ref 62,1729852
-brownfield-land,,,Map ref 63,1729853
 brownfield-land,,local-authority-eng:CAT,BR-119,1729854
 brownfield-land,,local-authority-eng:CAT,BR-121,1729855
 brownfield-land,,local-authority-eng:CAT,BR-122,1729856
@@ -29872,13 +29870,7 @@ brownfield-land,,local-authority-eng:CAT,BR-117,1729863
 brownfield-land,,local-authority-eng:CAT,BR-118,1729864
 brownfield-land,,local-authority-eng:CAT,BR-120,1729865
 brownfield-land,,local-authority-eng:CAT,BR-126,1729866
-brownfield-land,,local-authority-eng:CAR,,1729867
-brownfield-land,,local-authority-eng:CAR,,1729868
-brownfield-land,,local-authority-eng:CAR,,1729869
-brownfield-land,,local-authority-eng:CAR,,1729870
-brownfield-land,,local-authority-eng:CAR,,1729871
 brownfield-land,,local-authority-eng:CAR,HO03,1729872
-brownfield-land,,local-authority-eng:CAR,,1729873
 brownfield-land,,local-authority-eng:CAS,CP0024,1729874
 brownfield-land,,local-authority-eng:CAS,CP0032,1729875
 brownfield-land,,local-authority-eng:CAS,CP0033,1729876
@@ -30141,15 +30133,6 @@ brownfield-land,,local-authority-eng:CON,BR276,1730132
 brownfield-land,,local-authority-eng:CON,BR277,1730133
 brownfield-land,,local-authority-eng:CON,BR278,1730134
 brownfield-land,,local-authority-eng:CON,BR279,1730135
-brownfield-land,,,CBCBLR044,1730136
-brownfield-land,,,CBCBLR046,1730137
-brownfield-land,,,CBCBLR047,1730138
-brownfield-land,,,CBCBLR048,1730139
-brownfield-land,,,CBCBLR050,1730140
-brownfield-land,,,CBCBLR051,1730141
-brownfield-land,,,CBCBLR052,1730142
-brownfield-land,,,CBCBLR053,1730143
-brownfield-land,,,CBCBLR054,1730144
 brownfield-land,,local-authority-eng:DAL,17,1730145
 brownfield-land,,local-authority-eng:DAL,153,1730146
 brownfield-land,,local-authority-eng:DAL,313,1730147
@@ -30404,35 +30387,6 @@ brownfield-land,,local-authority-eng:EAT,BLR-4-14,1730395
 brownfield-land,,local-authority-eng:EAT,BLR-10-1,1730396
 brownfield-land,,local-authority-eng:EDE,BL39,1730397
 brownfield-land,,local-authority-eng:EDE,BL40,1730398
-brownfield-land,,,BLR0302,1730399
-brownfield-land,,,BLR0401,1730400
-brownfield-land,,,BLR0512,1730401
-brownfield-land,,,BLR0513,1730402
-brownfield-land,,,BLR0606,1730403
-brownfield-land,,,BLR1037,1730404
-brownfield-land,,,BLR1038,1730405
-brownfield-land,,,BLR1039,1730406
-brownfield-land,,,BLR1040,1730407
-brownfield-land,,,BLR1210,1730408
-brownfield-land,,,BLR1211,1730409
-brownfield-land,,,BLR1212,1730410
-brownfield-land,,,BLR1301,1730411
-brownfield-land,,,BLR1501,1730412
-brownfield-land,,,BLR1828,1730413
-brownfield-land,,,BLR1830,1730414
-brownfield-land,,,BLR2306,1730415
-brownfield-land,,,BLR2307,1730416
-brownfield-land,,,BLR2341,1730417
-brownfield-land,,,BLR2343,1730418
-brownfield-land,,,BLR2510,1730419
-brownfield-land,,,BLR3120,1730420
-brownfield-land,,,BLR3121,1730421
-brownfield-land,,,BLR3210,1730422
-brownfield-land,,,BLR3211,1730423
-brownfield-land,,,BLR3501,1730424
-brownfield-land,,,BLR4201,1730425
-brownfield-land,,,BRL0607,1730426
-brownfield-land,,,BRL2342,1730427
 brownfield-land,,local-authority-eng:EPS,1,1730428
 brownfield-land,,local-authority-eng:EPS,2,1730429
 brownfield-land,,local-authority-eng:EPS,3,1730430
@@ -30494,7 +30448,6 @@ brownfield-land,,local-authority-eng:EPP,B44,1730485
 brownfield-land,,local-authority-eng:EPP,B45,1730486
 brownfield-land,,local-authority-eng:EPP,B46,1730487
 brownfield-land,,local-authority-eng:EPP,B47,1730488
-brownfield-land,,,B50,1730489
 brownfield-land,,local-authority-eng:EPP,B58,1730490
 brownfield-land,,local-authority-eng:EPP,B71,1730491
 brownfield-land,,local-authority-eng:EPP,B76,1730492
@@ -30568,31 +30521,3 @@ brownfield-land,,local-authority-eng:FAR,3259,1730559
 brownfield-land,,local-authority-eng:FAR,3260,1730560
 brownfield-land,,local-authority-eng:FAR,3263,1730561
 brownfield-land,,local-authority-eng:FAR,3264,1730562
-brownfield-land,,,,1730563
-brownfield-land,,,,1730564
-brownfield-land,,,,1730565
-brownfield-land,,,,1730566
-brownfield-land,,,,1730567
-brownfield-land,,,,1730568
-brownfield-land,,,,1730569
-brownfield-land,,,,1730570
-brownfield-land,,,,1730571
-brownfield-land,,,,1730572
-brownfield-land,,,,1730573
-brownfield-land,,,,1730574
-brownfield-land,,,,1730575
-brownfield-land,,,,1730576
-brownfield-land,,,,1730577
-brownfield-land,,,,1730578
-brownfield-land,,,,1730579
-brownfield-land,,,,1730580
-brownfield-land,,,,1730581
-brownfield-land,,,,1730582
-brownfield-land,,,,1730583
-brownfield-land,,,,1730584
-brownfield-land,,,,1730585
-brownfield-land,,,,1730586
-brownfield-land,,,,1730587
-brownfield-land,,,,1730588
-brownfield-land,,,,1730589
-brownfield-land,,,,1730590
