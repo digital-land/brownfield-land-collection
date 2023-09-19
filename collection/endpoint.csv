@@ -863,7 +863,7 @@ bb3385ec2ba9dd90a4c92ff25bf107487076ce8188536b1e8aab88a6005d54e2,https://www.sta
 49525bcc467bc9b13c25965b397e181ae8f9c604e0b77431d40d48657862f748,https://www.copeland.gov.uk/attachments/copeland-brownfield-register,,,2020-12-18,,
 62d33ba999c3ffc05a11c2165878ff6a3f9ad66c4eeb8f16b936fd156066225e,https://www.northdevon.gov.uk/media/379769/brownfield-land-register-plans.csv,,,2020-12-18,,
 7611c4730d3778782137aa5eebdc264154221d4365718556879d73e57cba1fcf,https://www.nuneatonandbedworth.gov.uk/downloads/file/4108/brownfield_land_register_2020,,,2020-12-18,,
-2d9bd4672710819852edbd9ae5b4966fcd7768cd5e0508d1472acb7c9f8e7860,"https://www.sunderland.gov.uk/media/22926/Brownfield-Site-Register-2020/xls/Brownfield_Site_Register_2020.xlsx?m=637438945062970000 ",,,2020-12-18,,2023-09-04
+2d9bd4672710819852edbd9ae5b4966fcd7768cd5e0508d1472acb7c9f8e7860,https://www.sunderland.gov.uk/media/22926/Brownfield-Site-Register-2020/xls/Brownfield_Site_Register_2020.xlsx?m=637438945062970000 ,,,2020-12-18,,2023-09-04
 4c81fc3d2d6a7396854830f7da62b7b0f7fb74088fa9219761a5e24f8af55796,https://www.torridge.gov.uk/CHttpHandler.ashx?id=21468&p=0,,,2020-12-18,,2023-09-05
 c55843639d58ae8ddc8dac953e89e9525815270440b0ed5820b729aaf4b80ce2,https://www.eastsuffolk.gov.uk/assets/Planning/Brownfield-Land-Register/brownfield-land.csv,,,2020-12-21,,
 f4a6afa342df5691a9276f740ad0a6e57bce931747fa922f5404e088838c4ad1,https://www.gloucester.gov.uk/media/4748/brownfield-land.csv,,,2020-12-21,,
@@ -886,7 +886,7 @@ e4836d2f4b661df8214ab2510be23f29b45e5c72927662388e201a0b76a119bb,https://www.lam
 be52a1634fc8c3bb6ec71d1278c2dfa78bd5429f182766e9d5cb60275e26bec4,https://www.horsham.gov.uk/__data/assets/file/0011/93863/horsham_brownfieldregister_2020-12-31_rev0_harmonised.csv,,,2020-12-22,,
 948f012fb683a258df84f489f8262c921100e391833050b4c533b9f2b37393f8,https://maps.cheshireeast.gov.uk/ce/inspire/brownfield-land.csv,,,2020-12-23,,
 1403bbbf396101e1ebf5feaaa484b2180d2d51403e132dd25b8950fc97a830d9,https://www.rushmoor.gov.uk/brownfieldlandregistercsv,,,2020-12-23,,
-c6f2859a751bd8dccb4beb11aac32b0fbdafe657b8bae419004c7d948e916f04," https://www.northampton.gov.uk/download/downloads/id/10730/brownfield-landcsv.csv",,,2020-12-23,,
+c6f2859a751bd8dccb4beb11aac32b0fbdafe657b8bae419004c7d948e916f04, https://www.northampton.gov.uk/download/downloads/id/10730/brownfield-landcsv.csv,,,2020-12-23,,
 4be721e6938476100241719a183fbebfe6f9be38c7d672107e59b720b4b00bb3,https://erewash.gov.uk/images/Planning_Policy/brownfield-land.csv,,,2020-12-23,,
 6f56fd60e85c641c682f98d0e01a41fb1beebf3041c4f134f30158b4254af2f2,https://www.norwich.gov.uk/download/downloads/id/4578/brownfield_land_register_csv.csv,,,2020-12-23,,
 36deb35dd1a5bb5205fbdb8429b987d14c15d6ef21bfae42df54d1811db9a2d6,https://www.n-kesteven.gov.uk/_resources/assets/attachment/full/0/78037.csv,,,2020-12-23,,
@@ -1369,3 +1369,7 @@ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855,,,,2023-09-13,,
 2202c16e1786e27219b31ba99a963a7e20add1a890115fccd205175983627a09,https://www.teignbridge.gov.uk/media/mt2pw4qe/2022-bfr.xlsx,,,2023-09-13,2023-09-13,
 819d62ca58ca8bf5ddce820111cd5936398fc8f8462846dd1c6e841d7cc41a95,https://tunbridgewells.gov.uk/__data/assets/file/0008/437858/Brownfield-Register-Part-1-2022-2023.csv,,,2023-09-13,2023-09-13,
 270d29f3ff247b2c40aa97ea7aa1ebff9528698a6072384c5c939fa500fac232,https://www.dorsetcouncil.gov.uk/documents/35024/288820/Brownfield+land.csv/d2447101-61fd-11cb-c014-79aa041e4c42?t=1625743914942,,,2023-09-13,2023-09-13,
+890c3ac73da82610fe1b7d444c8c89c92a7f368316e3c0f8d2e72f0c439b5245,https://data.london.gov.uk/download/brownfield_register/7ef14d04-8347-4133-b8a7-7c72415f25f1/Brownfield%20Register%20data%20csv.csv,,,2023-09-13,2023-09-13,
+a844141c8a45811d3620cf7ece02ee92dec6bc69c6fba80c647f11ff9efff6c1,https://www.newham.gov.uk/downloads/file/5462/newhambrownfieldregister-dec-2022,,,2023-09-13,2023-09-13,
+890c3ac73da82610fe1b7d444c8c89c92a7f368316e3c0f8d2e72f0c439b5245,https://data.london.gov.uk/download/brownfield_register/7ef14d04-8347-4133-b8a7-7c72415f25f1/Brownfield%20Register%20data%20csv.csv,,,2023-09-13,,
+97d36593114822252b12c5cef9cc4d8d324d07d317efae9a707558bf09c6f72d,https://www.eastherts.gov.uk/sites/default/files/documents/Brownfield_Land_Register-_Excel.xlsx,,,2023-09-13,,
