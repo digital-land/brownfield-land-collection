@@ -1,2 +1,2 @@
 organisation,documentation-url,endpoint-url,start-date,pipelines,plugin
-local-authority-eng:LCE,https://data.leicester.gov.uk/explore/dataset/brownfield-register/information/,https://data.leicester.gov.uk/api/explore/v2.1/catalog/datasets/brownfield-register/exports/csv?lang=en&timezone=Europe%2FLondon&use_labels=true&delimiter=%3B,2023-07-05,brownfield-land,
+local-authority-eng:MEN,https://www.somerset.gov.uk/finance-performance-and-legal/brownfield-register/?district=Mendip,https://somersetcc.sharepoint.com/:x:/s/SCCPublic/EbPIsKdxkclNptDBnz7rF58B0oBmICWRqzzasokZpts5_A?e=9JWdiw,2022-12-31,brownfield-land,
