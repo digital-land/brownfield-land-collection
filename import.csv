@@ -1,2 +1,2 @@
 organisation,documentation-url,endpoint-url,start-date,pipelines,plugin
-local-authority-eng:GMCA,https://www.manchester.gov.uk/info/200074/planning/7293/brownfield_land_register,https://www.manchester.gov.uk/download/downloads/id/29070/brownfield_land_register_2022.csv,2022-03-31,brownfield-land,
+local-authority-eng:LCE,https://data.leicester.gov.uk/explore/dataset/brownfield-register/information/,https://data.leicester.gov.uk/api/explore/v2.1/catalog/datasets/brownfield-register/exports/csv?lang=en&timezone=Europe%2FLondon&use_labels=true&delimiter=%3B,2023-07-05,brownfield-land,
