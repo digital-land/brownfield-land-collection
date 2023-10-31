@@ -1,2 +1,2 @@
 organisation,documentation-url,endpoint-url,start-date,pipelines,plugin
-local-authority-eng:SLF,https://www.salford.gov.uk/brownfield-register,https://www.salford.gov.uk/media/398951/salford-2022-brownfield-register.csv,2022-03-31,brownfield-land,
+local-authority-eng:STA,https://www.staffordbc.gov.uk/brownfield-land-register,https://www.staffordbc.gov.uk/brownfield-land-register-csv-format,2021-11-12,brownfield-land,
