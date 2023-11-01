@@ -1,2 +1,2 @@
 organisation,documentation-url,endpoint-url,start-date,pipelines,plugin
-local-authority-eng:WBK,https://www.westberks.gov.uk/brownfieldlandregister,https://www.westberks.gov.uk/media/53964/Brownfield-Land-Register-Part-1-2022-update/csv/Part_1_Brownfield_Land_Register_2022.csv?m=638146777601700000,2023-03-31,brownfield-land,
+local-authority-eng:WEA,https://www.wealden.gov.uk/planning-and-building-control/planning-policy/brownfield-register/,https://www.wealden.gov.uk/UploadedFiles/Brownfield-Land-2.csv,2023-12-31,brownfield-land,
