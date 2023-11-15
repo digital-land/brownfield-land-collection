@@ -1,2 +1,2 @@
 organisation,documentation-url,endpoint-url,start-date,pipelines,plugin
-local-authority-eng:WIN,https://www.winchester.gov.uk/planning-policy/monitoring-and-other-planning-documents/brownfield-land-register,https://www.winchester.gov.uk/assets/attach/33855/brownfield-sites-2022.csv,2022-12-16,brownfield-land,
+local-authority-eng:BNE,https://open.barnet.gov.uk/dataset/249xe/brownfield-land-register,https://open.barnet.gov.uk/download/249xe/gc7/Brownfield%20Land%20Register.csv,2023-11-15,brownfield-land,
