@@ -1,2 +1,2 @@
 organisation,documentation-url,endpoint-url,start-date,pipelines,plugin
-local-authority-eng:BNE,https://open.barnet.gov.uk/dataset/249xe/brownfield-land-register,https://open.barnet.gov.uk/download/249xe/gc7/Brownfield%20Land%20Register.csv,2023-11-15,brownfield-land,
+local-authority-eng:DUD,https://www.dudley.gov.uk/residents/planning/brownfield-land-register/,https://www.dudley.gov.uk/media/xxhj0cym/brownfield-land.csv,2023-10-16,brownfield-land,
