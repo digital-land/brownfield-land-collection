@@ -205,9 +205,13 @@ $(PIPELINE_DIR)%.csv:
 	fi
 
 config:: $(PIPELINE_CONFIG_FILES)
+ifeq ($(PIPELINE_CONFIG_FILES), .dummy)
+	echo "pipeline_config_files are dummy not making config.sqlite" 
+else
 	mkdir -p $(CACHE_DIR)
 	digital-land --pipeline-dir $(PIPELINE_DIR) config-create --config-path $(CACHE_DIR)config.sqlite3
 	digital-land --pipeline-dir $(PIPELINE_DIR) config-load --config-path $(CACHE_DIR)config.sqlite3
+endif
 
 clean::
 	rm -f $(PIPELINE_CONFIG_FILES)
